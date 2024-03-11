@@ -14,12 +14,12 @@
         <h1 class="text-3xl font-bold text-center text-green-500">{{ $page->data['hedding'] }}</h1>
         <div id="animation-carousel" class="relative w-full max-w-screen-md mx-auto my-5" data-carousel="static">
             <!-- Carousel wrapper -->
-            <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
+            <div class="relative overflow-hidden rounded-lg h-[35rem]">
                 @foreach ($page->data['slider_image'] as $item)
                     <div class="hidden duration-200 ease-linear" data-carousel-item>
                         <img src="/storage/{{ $item }}"
                             class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
-                            alt="...">
+                            alt="">
                     </div>
                 @endforeach
             </div>
@@ -106,7 +106,8 @@
                     </div>
                 </div>
                 <div>
-                    <iframe style="max-width: 100%;max-height:auto" src="{{ $page->data['video_link'] }}"></iframe>
+                    {{-- <iframe style="max-width: 100%;max-height:auto" src="{{ $page->data['video_link'] }}"></iframe> --}}
+                    <img class=" max-w-96" src="/storage/{{ $page->data['video_image'] }}" alt="" srcset="">
                 </div>
             </div>
         </div>

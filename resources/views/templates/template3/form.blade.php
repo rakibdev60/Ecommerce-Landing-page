@@ -69,6 +69,12 @@
 </div>
 
 <div class="mt-5">
+    <label for="video_image" class="control-label">Video Image</label>
+    <input class="form-control" name="data[video_image]" type="file"
+        value="@isset($page->data['video_image']){{ $page->data['video_image'] }}@endisset">
+</div>
+
+<div class="mt-5">
     <label for="video_link" class="control-label">Text 1</label>
     <input class="form-control" name="data[text1]" type="text"
         value="@isset($page->data['text1']){{ $page->data['text1'] }}@endisset">
