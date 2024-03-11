@@ -69,9 +69,7 @@
                          <img class="inline me-5" src="storage/{{ $product->image }}" width="50">
                          <span>{{ $product->name }}</span>
                      </div>
-                     <div>
-                         <span id="quantity_show">1 x</span>
-                         <span id="sub_total">00</span>
+                     <div id="sub_total">
                      </div>
                  </div>
                  <div class="flex justify-between pb-3 border-b border-dashed">
@@ -114,9 +112,11 @@
          function total() {
              const price = {{ $product->price }};
              const quantity = document.getElementById('quantity').value;
+             const sub_total = document.getElementById('sub_total');
              const total = document.getElementById('total');
              const delivery_charge = document.querySelector('input[name="delivery_charge"]:checked').value;
 
+             sub_total.innerText = quantity + " x {{$product->price}} = " + (quantity * {{$product->price}});
              total.innerText = "Tk : " + (Number(quantity * price) + Number(delivery_charge));
          }
 
