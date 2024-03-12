@@ -2029,6 +2029,7 @@
                                                 </form>
 
                                             </div>
+
                                             <!-- END CHECKOUT SHORTCODE -->
 
                                             <script>
@@ -2048,22 +2049,30 @@
                                                 }
 
                                                 total()
-
-                                                var d = document.createElement('div');
-                                                d.textContent = "Development By ";
-
-                                                var a = document.createElement('a');
-                                                a.setAttribute('href', "https://vida.com.bd")
-                                                a.textContent = "Vida Technology";
-
-                                                d.appendChild(a)
-
-                                                const body = document.getElementById("body");
-                                                body.appendChild(d);
                                             </script>
 
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section
+                class="elementor-section elementor-top-section elementor-element elementor-element-82e4083 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                data-id="82e4083" data-element_type="section"
+                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ac67d5d"
+                        data-id="1ac67d5d" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-68b13514 elementor-widget elementor-widget-text-editor"
+                                data-id="68b13514" data-element_type="widget"
+                                data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p>Development By Vida Technology <a href="https://vida.com.bd" target="_blank">https://vida.com.bd</a></p>
                                 </div>
                             </div>
                         </div>
