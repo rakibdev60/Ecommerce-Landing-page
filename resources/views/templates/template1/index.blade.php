@@ -733,7 +733,7 @@
     </noscript>
     <meta name="generator"
         content="Elementor 3.18.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
-  
+
     <meta name="msapplication-TileImage"
         content="https://elegentbd.com/wp-content/uploads/2023/12/cropped-326835200_675963777643124_608574674047537790_n-270x270.jpg">
 </head>
@@ -1530,8 +1530,10 @@
                                                                         <path
                                                                             d="M256.55 8C116.52 8 8 110.34 8 248.57c0 72.3 29.71 134.78 78.07 177.94 8.35 7.51 6.63 11.86 8.05 58.23A19.92 19.92 0 0 0 122 502.31c52.91-23.3 53.59-25.14 62.56-22.7C337.85 521.8 504 423.7 504 248.57 504 110.34 396.59 8 256.55 8zm149.24 185.13l-73 115.57a37.37 37.37 0 0 1-53.91 9.93l-58.08-43.47a15 15 0 0 0-18 0l-78.37 59.44c-10.46 7.93-24.16-4.6-17.11-15.67l73-115.57a37.36 37.36 0 0 1 53.91-9.93l58.06 43.46a15 15 0 0 0 18 0l78.41-59.38c10.44-7.98 24.14 4.54 17.09 15.62z">
                                                                         </path>
-                                                                    </svg> </span>
-                                                                <span class="elementor-button-text">Shopping zone Bd</span>
+                                                                    </svg>
+                                                                </span>
+                                                                <span class="elementor-button-text">Shopping zone
+                                                                    Bd</span>
                                                             </span>
                                                         </a>
                                                     </div>
@@ -1584,14 +1586,14 @@
                         <div class="elementor-widget-wrap elementor-element-populated">
 
                             @isset($page->data['hedding3'])
-                            <div class="elementor-element elementor-element-1b4481c elementor-widget elementor-widget-heading"
-                                data-id="1b4481c" data-element_type="widget" data-widget_type="heading.default">
-                                <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">
-                                        {{ $page->data['hedding3'] }}
-                                    </h2>
+                                <div class="elementor-element elementor-element-1b4481c elementor-widget elementor-widget-heading"
+                                    data-id="1b4481c" data-element_type="widget" data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                        <h2 class="elementor-heading-title elementor-size-default">
+                                            {{ $page->data['hedding3'] }}
+                                        </h2>
+                                    </div>
                                 </div>
-                            </div>
                             @endisset
 
                             <div class="elementor-element elementor-element-8752e86 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
@@ -1609,55 +1611,55 @@
                                     <ul class="elementor-icon-list-items">
 
                                         @isset($page->data['point6'])
-                                        <li class="elementor-icon-list-item">
-                                            <span class="elementor-icon-list-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
-                                                    viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
-                                                    </path>
-                                                </svg> </span>
-                                            <span class="elementor-icon-list-text">{{ $page->data['point6'] }}</span>
-                                        </li>
+                                            <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
+                                                        viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
+                                                        </path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text">{{ $page->data['point6'] }}</span>
+                                            </li>
                                         @endisset
 
                                         @isset($page->data['point7'])
-                                        <li class="elementor-icon-list-item">
-                                            <span class="elementor-icon-list-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
-                                                    viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
-                                                    </path>
-                                                </svg> </span>
-                                            <span class="elementor-icon-list-text">{{ $page->data['point7'] }}</span>
-                                        </li>
+                                            <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
+                                                        viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
+                                                        </path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text">{{ $page->data['point7'] }}</span>
+                                            </li>
                                         @endisset
 
                                         @isset($page->data['point8'])
-                                        <li class="elementor-icon-list-item">
-                                            <span class="elementor-icon-list-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
-                                                    viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
-                                                    </path>
-                                                </svg> </span>
-                                            <span class="elementor-icon-list-text">{{ $page->data['point8'] }}</span>
-                                        </li>
+                                            <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
+                                                        viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
+                                                        </path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text">{{ $page->data['point8'] }}</span>
+                                            </li>
                                         @endisset
 
                                         @isset($page->data['point9'])
-                                        <li class="elementor-icon-list-item">
-                                            <span class="elementor-icon-list-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
-                                                    viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
-                                                    </path>
-                                                </svg> </span>
-                                            <span class="elementor-icon-list-text">{{ $page->data['point9'] }}</span>
-                                        </li>
+                                            <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
+                                                        viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
+                                                        </path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text">{{ $page->data['point9'] }}</span>
+                                            </li>
                                         @endisset
 
                                     </ul>
@@ -1775,11 +1777,9 @@
 
                                                     <input type="hidden" name="products[{{ $product->id }}]"
                                                         value="{{ $product->id }}">
-                                                    <input type="hidden"
-                                                        name="products[{{ $product->id }}][name]"
+                                                    <input type="hidden" name="products[{{ $product->id }}][name]"
                                                         value="{{ $product->name }}">
-                                                    <input type="hidden"
-                                                        name="products[{{ $product->id }}][price]"
+                                                    <input type="hidden" name="products[{{ $product->id }}][price]"
                                                         value="{{ $product->price }}">
 
                                                     @if (array_key_exists('name', $product->attributes))
@@ -1888,10 +1888,11 @@
                                                                             class="woocommerce-input-wrapper">
 
                                                                             <input type="number" class="input-text"
-                                                                                onchange="total()" id="quantity" required value="1"
+                                                                                onchange="total()" id="quantity"
+                                                                                required value="1"
                                                                                 name="products[{{ $product->id }}][quantity]">
 
-                                                                            </span>
+                                                                        </span>
                                                                     </p>
 
                                                                 </div>
@@ -2024,7 +2025,7 @@
 
 
                                                     </div>
-                                                    
+
                                                 </form>
 
                                             </div>
@@ -2047,6 +2048,9 @@
                                                 }
 
                                                 total()
+
+                                               var = document.createElement('div');
+
                                             </script>
 
                                         </div>
@@ -2073,251 +2077,12 @@
     <link rel="stylesheet" id="e-animations-css"
         href="https://elegentbd.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.18.3"
         media="all">
-    <script id="rocket-browser-checker-js-after">
-        "use strict";
-        var _createClass = function() {
-            function defineProperties(target, props) {
-                for (var i = 0; i < props.length; i++) {
-                    var descriptor = props[i];
-                    descriptor.enumerable = descriptor.enumerable || !1, descriptor.configurable = !0, "value" in
-                        descriptor && (descriptor.writable = !0), Object.defineProperty(target, descriptor.key,
-                            descriptor)
-                }
-            }
-            return function(Constructor, protoProps, staticProps) {
-                return protoProps && defineProperties(Constructor.prototype, protoProps), staticProps &&
-                    defineProperties(Constructor, staticProps), Constructor
-            }
-        }();
+ 
+  
+ 
+ 
 
-        function _classCallCheck(instance, Constructor) {
-            if (!(instance instanceof Constructor)) throw new TypeError("Cannot call a class as a function")
-        }
-        var RocketBrowserCompatibilityChecker = function() {
-            function RocketBrowserCompatibilityChecker(options) {
-                _classCallCheck(this, RocketBrowserCompatibilityChecker), this.passiveSupported = !1, this
-                    ._checkPassiveOption(this), this.options = !!this.passiveSupported && options
-            }
-            return _createClass(RocketBrowserCompatibilityChecker, [{
-                key: "_checkPassiveOption",
-                value: function(self) {
-                    try {
-                        var options = {
-                            get passive() {
-                                return !(self.passiveSupported = !0)
-                            }
-                        };
-                        window.addEventListener("test", null, options), window.removeEventListener(
-                            "test", null, options)
-                    } catch (err) {
-                        self.passiveSupported = !1
-                    }
-                }
-            }, {
-                key: "initRequestIdleCallback",
-                value: function() {
-                    !1 in window && (window.requestIdleCallback = function(cb) {
-                        var start = Date.now();
-                        return setTimeout(function() {
-                            cb({
-                                didTimeout: !1,
-                                timeRemaining: function() {
-                                    return Math.max(0, 50 - (Date.now() -
-                                        start))
-                                }
-                            })
-                        }, 1)
-                    }), !1 in window && (window.cancelIdleCallback = function(id) {
-                        return clearTimeout(id)
-                    })
-                }
-            }, {
-                key: "isDataSaverModeOn",
-                value: function() {
-                    return "connection" in navigator && !0 === navigator.connection.saveData
-                }
-            }, {
-                key: "supportsLinkPrefetch",
-                value: function() {
-                    var elem = document.createElement("link");
-                    return elem.relList && elem.relList.supports && elem.relList.supports("prefetch") &&
-                        window.IntersectionObserver && "isIntersecting" in IntersectionObserverEntry
-                        .prototype
-                }
-            }, {
-                key: "isSlowConnection",
-                value: function() {
-                    return "connection" in navigator && "effectiveType" in navigator.connection && (
-                        "2g" === navigator.connection.effectiveType || "slow-2g" === navigator
-                        .connection.effectiveType)
-                }
-            }]), RocketBrowserCompatibilityChecker
-        }();
-    </script>
-    <script id="rocket-preload-links-js-extra">
-        var RocketPreloadLinksConfig = {
-            "excludeUris": "\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/step\/thank-you-woo-8\/??(.*)|\/cart\/?|\/my-account\/??(.*)|\/wc-api\/v(.*)|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/",
-            "usesTrailingSlash": "1",
-            "imageExt": "jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php",
-            "fileExt": "jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm",
-            "siteUrl": "https:\/\/elegentbd.com",
-            "onHoverDelay": "100",
-            "rateThrottle": "3"
-        };
-    </script>
-    <script id="rocket-preload-links-js-after">
-        (function() {
-            "use strict";
-            var r = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(e) {
-                    return typeof e
-                } : function(e) {
-                    return e && "function" == typeof Symbol && e.constructor === Symbol && e !== Symbol.prototype ?
-                        "symbol" : typeof e
-                },
-                e = function() {
-                    function i(e, t) {
-                        for (var n = 0; n < t.length; n++) {
-                            var i = t[n];
-                            i.enumerable = i.enumerable || !1, i.configurable = !0, "value" in i && (i.writable = !0),
-                                Object.defineProperty(e, i.key, i)
-                        }
-                    }
-                    return function(e, t, n) {
-                        return t && i(e.prototype, t), n && i(e, n), e
-                    }
-                }();
 
-            function i(e, t) {
-                if (!(e instanceof t)) throw new TypeError("Cannot call a class as a function")
-            }
-            var t = function() {
-                function n(e, t) {
-                    i(this, n), this.browser = e, this.config = t, this.options = this.browser.options, this
-                        .prefetched = new Set, this.eventTime = null, this.threshold = 1111, this.numOnHover = 0
-                }
-                return e(n, [{
-                    key: "init",
-                    value: function() {
-                        !this.browser.supportsLinkPrefetch() || this.browser.isDataSaverModeOn() ||
-                            this.browser.isSlowConnection() || (this.regex = {
-                                excludeUris: RegExp(this.config.excludeUris, "i"),
-                                images: RegExp(".(" + this.config.imageExt + ")$", "i"),
-                                fileExt: RegExp(".(" + this.config.fileExt + ")$", "i")
-                            }, this._initListeners(this))
-                    }
-                }, {
-                    key: "_initListeners",
-                    value: function(e) {
-                        -1 < this.config.onHoverDelay && document.addEventListener("mouseover", e
-                                .listener.bind(e), e.listenerOptions), document.addEventListener(
-                                "mousedown", e.listener.bind(e), e.listenerOptions), document
-                            .addEventListener("touchstart", e.listener.bind(e), e.listenerOptions)
-                    }
-                }, {
-                    key: "listener",
-                    value: function(e) {
-                        var t = e.target.closest("a"),
-                            n = this._prepareUrl(t);
-                        if (null !== n) switch (e.type) {
-                            case "mousedown":
-                            case "touchstart":
-                                this._addPrefetchLink(n);
-                                break;
-                            case "mouseover":
-                                this._earlyPrefetch(t, n, "mouseout")
-                        }
-                    }
-                }, {
-                    key: "_earlyPrefetch",
-                    value: function(t, e, n) {
-                        var i = this,
-                            r = setTimeout(function() {
-                                if (r = null, 0 === i.numOnHover) setTimeout(function() {
-                                    return i.numOnHover = 0
-                                }, 1e3);
-                                else if (i.numOnHover > i.config.rateThrottle) return;
-                                i.numOnHover++, i._addPrefetchLink(e)
-                            }, this.config.onHoverDelay);
-                        t.addEventListener(n, function e() {
-                            t.removeEventListener(n, e, {
-                                passive: !0
-                            }), null !== r && (clearTimeout(r), r = null)
-                        }, {
-                            passive: !0
-                        })
-                    }
-                }, {
-                    key: "_addPrefetchLink",
-                    value: function(i) {
-                        return this.prefetched.add(i.href), new Promise(function(e, t) {
-                            var n = document.createElement("link");
-                            n.rel = "prefetch", n.href = i.href, n.onload = e, n.onerror =
-                                t, document.head.appendChild(n)
-                        }).catch(function() {})
-                    }
-                }, {
-                    key: "_prepareUrl",
-                    value: function(e) {
-                        if (null === e || "object" !== (void 0 === e ? "undefined" : r(e)) || !1 in
-                            e || -1 === ["http:", "https:"].indexOf(e.protocol)) return null;
-                        var t = e.href.substring(0, this.config.siteUrl.length),
-                            n = this._getPathname(e.href, t),
-                            i = {
-                                original: e.href,
-                                protocol: e.protocol,
-                                origin: t,
-                                pathname: n,
-                                href: t + n
-                            };
-                        return this._isLinkOk(i) ? i : null
-                    }
-                }, {
-                    key: "_getPathname",
-                    value: function(e, t) {
-                        var n = t ? e.substring(this.config.siteUrl.length) : e;
-                        return n.startsWith("/") || (n = "/" + n), this._shouldAddTrailingSlash(n) ?
-                            n + "/" : n
-                    }
-                }, {
-                    key: "_shouldAddTrailingSlash",
-                    value: function(e) {
-                        return this.config.usesTrailingSlash && !e.endsWith("/") && !this.regex
-                            .fileExt.test(e)
-                    }
-                }, {
-                    key: "_isLinkOk",
-                    value: function(e) {
-                        return null !== e && "object" === (void 0 === e ? "undefined" : r(e)) && (!
-                            this.prefetched.has(e.href) && e.origin === this.config.siteUrl && -
-                            1 === e.href.indexOf("?") && -1 === e.href.indexOf("#") && !this
-                            .regex.excludeUris.test(e.href) && !this.regex.images.test(e.href))
-                    }
-                }], [{
-                    key: "run",
-                    value: function() {
-                        "undefined" != typeof RocketPreloadLinksConfig && new n(
-                            new RocketBrowserCompatibilityChecker({
-                                capture: !0,
-                                passive: !0
-                            }), RocketPreloadLinksConfig).init()
-                    }
-                }]), n
-            }();
-            t.run();
-        }());
-    </script>
-    <script src="https://elegentbd.com/wp-content/plugins/cartflows/assets/js/checkout-template.js?ver=2.0.2"
-        id="wcf-checkout-template-js"></script>
-    <script src="https://elegentbd.com/wp-content/plugins/cartflows-pro/assets/js/checkout.js?ver=2.0.1"
-        id="wcf-pro-checkout-js"></script>
-    <script src="https://elegentbd.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
-    <script id="wp-util-js-extra">
-        var _wpUtilSettings = {
-            "ajax": {
-                "url": "\/wp-admin\/admin-ajax.php"
-            }
-        };
-    </script>
     <script src="https://elegentbd.com/wp-includes/js/wp-util.min.js?ver=6.4.3" id="wp-util-js"></script>
 
     <script

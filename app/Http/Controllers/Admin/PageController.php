@@ -96,6 +96,8 @@ class PageController extends Controller
         }
 
         $page->update([
+            'name' => $request->name,
+            'slug' => $request->slug,
             'data' => $data
         ]);
 
