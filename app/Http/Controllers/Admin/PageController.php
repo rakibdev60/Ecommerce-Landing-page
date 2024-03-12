@@ -58,7 +58,7 @@ class PageController extends Controller
     {
         $view = 'templates.' . $page->template_type . ".index";
         $product = Product::find($page->data['product_id']);
-
+        // dd($page);
         return view($view, compact('page', 'product'));
     }
 

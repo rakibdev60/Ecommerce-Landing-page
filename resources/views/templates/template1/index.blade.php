@@ -1090,134 +1090,31 @@
                                                         <div class="elementor-image-carousel swiper-wrapper"
                                                             aria-live="off" id="swiper-wrapper-3f24cda3a42aaf5b"
                                                             style="transform: translate3d(-2750px, 0px, 0px); transition-duration: 0ms;">
-                                                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="6 / 6" data-swiper-slide-index="5"
-                                                                style="width: 550px;" aria-hidden="true"
-                                                                inert=""><a data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="69a3919"
-                                                                    data-elementor-lightbox-title="422641494_359328596971660_8628127801578392013_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwOSwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2NDE0OTRfMzU5MzI4NTk2OTcxNjYwXzg2MjgxMjc4MDE1NzgzOTIwMTNfbi5qcGciLCJzbGlkZXNob3ciOiI2OWEzOTE5In0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422641494_359328596971660_8628127801578392013_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422641494_359328596971660_8628127801578392013_n.jpg"
-                                                                            alt="422641494_359328596971660_8628127801578392013_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="1 / 6"
-                                                                data-swiper-slide-index="0" style="width: 550px;"
-                                                                aria-hidden="true" inert=""><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="69a3919"
-                                                                    data-elementor-lightbox-title="422596097_359328643638322_2952602901136048108_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwNywidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI1OTYwOTdfMzU5MzI4NjQzNjM4MzIyXzI5NTI2MDI5MDExMzYwNDgxMDhfbi5qcGciLCJzbGlkZXNob3ciOiI2OWEzOTE5In0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422596097_359328643638322_2952602901136048108_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422596097_359328643638322_2952602901136048108_n.jpg"
-                                                                            alt="422596097_359328643638322_2952602901136048108_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="2 / 6"
-                                                                data-swiper-slide-index="1" style="width: 550px;"
-                                                                aria-hidden="true" inert=""><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="69a3919"
-                                                                    data-elementor-lightbox-title="422611355_359328460305007_3210874400219657344_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwNiwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MTEzNTVfMzU5MzI4NDYwMzA1MDA3XzMyMTA4NzQ0MDAyMTk2NTczNDRfbi5qcGciLCJzbGlkZXNob3ciOiI2OWEzOTE5In0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422611355_359328460305007_3210874400219657344_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422611355_359328460305007_3210874400219657344_n.jpg"
-                                                                            alt="422611355_359328460305007_3210874400219657344_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="3 / 6"
-                                                                data-swiper-slide-index="2" style="width: 550px;"
-                                                                aria-hidden="true" inert=""><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="69a3919"
-                                                                    data-elementor-lightbox-title="422606499_359328530305000_5921786522123280804_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYxMiwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MDY0OTlfMzU5MzI4NTMwMzA1MDAwXzU5MjE3ODY1MjIxMjMyODA4MDRfbi5qcGciLCJzbGlkZXNob3ciOiI2OWEzOTE5In0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422606499_359328530305000_5921786522123280804_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422606499_359328530305000_5921786522123280804_n.jpg"
-                                                                            alt="422606499_359328530305000_5921786522123280804_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide swiper-slide-prev" role="group"
-                                                                aria-roledescription="slide" aria-label="4 / 6"
-                                                                data-swiper-slide-index="3" style="width: 550px;"
-                                                                aria-hidden="true" inert=""><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="69a3919"
-                                                                    data-elementor-lightbox-title="422641741_359328580304995_5237390097039025017_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYxMCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2NDE3NDFfMzU5MzI4NTgwMzA0OTk1XzUyMzczOTAwOTcwMzkwMjUwMTdfbi5qcGciLCJzbGlkZXNob3ciOiI2OWEzOTE5In0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422641741_359328580304995_5237390097039025017_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422641741_359328580304995_5237390097039025017_n.jpg"
-                                                                            alt="422641741_359328580304995_5237390097039025017_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide swiper-slide-active"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="5 / 6" data-swiper-slide-index="4"
-                                                                style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="69a3919"
-                                                                    data-elementor-lightbox-title="422637546_359328556971664_1058070404011135554_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYxMSwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2Mzc1NDZfMzU5MzI4NTU2OTcxNjY0XzEwNTgwNzA0MDQwMTExMzU1NTRfbi5qcGciLCJzbGlkZXNob3ciOiI2OWEzOTE5In0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422637546_359328556971664_1058070404011135554_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422637546_359328556971664_1058070404011135554_n.jpg"
-                                                                            alt="422637546_359328556971664_1058070404011135554_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide swiper-slide-next" role="group"
-                                                                aria-roledescription="slide" aria-label="6 / 6"
-                                                                data-swiper-slide-index="5" style="width: 550px;"
-                                                                aria-hidden="true" inert=""><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="69a3919"
-                                                                    data-elementor-lightbox-title="422641494_359328596971660_8628127801578392013_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwOSwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2NDE0OTRfMzU5MzI4NTk2OTcxNjYwXzg2MjgxMjc4MDE1NzgzOTIwMTNfbi5qcGciLCJzbGlkZXNob3ciOiI2OWEzOTE5In0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422641494_359328596971660_8628127801578392013_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422641494_359328596971660_8628127801578392013_n.jpg"
-                                                                            alt="422641494_359328596971660_8628127801578392013_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide swiper-slide-duplicate"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="1 / 6" data-swiper-slide-index="0"
-                                                                style="width: 550px;" aria-hidden="true"
-                                                                inert=""><a data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="69a3919"
-                                                                    data-elementor-lightbox-title="422596097_359328643638322_2952602901136048108_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwNywidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI1OTYwOTdfMzU5MzI4NjQzNjM4MzIyXzI5NTI2MDI5MDExMzYwNDgxMDhfbi5qcGciLCJzbGlkZXNob3ciOiI2OWEzOTE5In0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422596097_359328643638322_2952602901136048108_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422596097_359328643638322_2952602901136048108_n.jpg"
-                                                                            alt="422596097_359328643638322_2952602901136048108_n">
-                                                                    </figure>
-                                                                </a></div>
+
+
+                                                            @isset($page->data['slider1'])
+                                                                @foreach ($page->data['slider1'] as $image)
+                                                                    <div class="swiper-slide" role="group"
+                                                                        aria-roledescription="slide" aria-label="1 / 10"
+                                                                        data-swiper-slide-index="0" aria-hidden="true"
+                                                                        inert="" style="width: 550px;"><a
+                                                                            data-elementor-open-lightbox="yes"
+                                                                            data-elementor-lightbox-slideshow="ccdc2fe"
+                                                                            data-elementor-lightbox-title="{{ $image }}"
+                                                                            data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU5NCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MTA1MzNfMzU5MjY1OTk2OTc3OTIwXzc3Mzc1ODIwNTI0NzYwMDI3NTFfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
+                                                                            href="/storage/{{ $image }}">
+                                                                            <figure class="swiper-slide-inner"><img
+                                                                                    decoding="async"
+                                                                                    class="swiper-slide-image"
+                                                                                    src="/storage/{{ $image }}"
+                                                                                    alt="{{ $image }}">
+                                                                            </figure>
+                                                                        </a></div>
+                                                                @endforeach
+                                                            @endisset
+
+
+
                                                         </div>
                                                         <div class="elementor-swiper-button elementor-swiper-button-prev"
                                                             role="button" tabindex="0" aria-label="Previous slide"
@@ -1259,7 +1156,8 @@
                                                                 data-bullet-index="4" aria-label="Go to slide 5"
                                                                 tabindex="0" aria-current="true"></span><span
                                                                 class="swiper-pagination-bullet" data-bullet-index="5"
-                                                                aria-label="Go to slide 6"></span></div>
+                                                                aria-label="Go to slide 6"></span>
+                                                        </div>
                                                         <span class="swiper-notification" aria-live="assertive"
                                                             aria-atomic="true"></span>
                                                     </div>
@@ -1309,7 +1207,11 @@
                                                             font-size: 59px
                                                         }
                                                     </style>
-                                                    <h2 class="elementor-heading-title elementor-size-default">@isset($page->data['hedding']){{$page->data['hedding']}}@endisset</h2>
+                                                    <h2 class="elementor-heading-title elementor-size-default">
+                                                        @isset($page->data['hedding'])
+                                                            {{ $page->data['hedding'] }}
+                                                        @endisset
+                                                    </h2>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-ccdc2fe elementor-pagination-position-inside elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel e-widget-swiper"
@@ -1324,200 +1226,29 @@
                                                         <div class="elementor-image-carousel swiper-wrapper"
                                                             aria-live="off" id="swiper-wrapper-f93d651110e6c384d"
                                                             style="transform: translate3d(-2200px, 0px, 0px); transition-duration: 0ms;">
-                                                            <div class="swiper-slide swiper-slide-duplicate"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="10 / 10" data-swiper-slide-index="9"
-                                                                aria-hidden="true" inert=""
-                                                                style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422600766_359265770311276_7440177529960321076_n (1)"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwMiwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MDA3NjZfMzU5MjY1NzcwMzExMjc2Xzc0NDAxNzc1Mjk5NjAzMjEwNzZfbi0xLTEuanBnIiwic2xpZGVzaG93IjoiY2NkYzJmZSJ9"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n-1-1.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n-1-1.jpg"
-                                                                            alt="422600766_359265770311276_7440177529960321076_n (1)">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="1 / 10"
-                                                                data-swiper-slide-index="0" aria-hidden="true"
-                                                                inert="" style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422610533_359265996977920_7737582052476002751_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU5NCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MTA1MzNfMzU5MjY1OTk2OTc3OTIwXzc3Mzc1ODIwNTI0NzYwMDI3NTFfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422610533_359265996977920_7737582052476002751_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422610533_359265996977920_7737582052476002751_n.jpg"
-                                                                            alt="422610533_359265996977920_7737582052476002751_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="2 / 10"
-                                                                data-swiper-slide-index="1" style="width: 550px;"
-                                                                aria-hidden="true" inert=""><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422620321_359265883644598_7982449119910341756_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU5OSwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MjAzMjFfMzU5MjY1ODgzNjQ0NTk4Xzc5ODI0NDkxMTk5MTAzNDE3NTZfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422620321_359265883644598_7982449119910341756_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422620321_359265883644598_7982449119910341756_n.jpg"
-                                                                            alt="422620321_359265883644598_7982449119910341756_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide swiper-slide-prev" role="group"
-                                                                aria-roledescription="slide" aria-label="3 / 10"
-                                                                data-swiper-slide-index="2" style="width: 550px;"
-                                                                aria-hidden="true" inert=""><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422957070_359265916977928_4483668746864685517_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU5OCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI5NTcwNzBfMzU5MjY1OTE2OTc3OTI4XzQ0ODM2Njg3NDY4NjQ2ODU1MTdfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422957070_359265916977928_4483668746864685517_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422957070_359265916977928_4483668746864685517_n.jpg"
-                                                                            alt="422957070_359265916977928_4483668746864685517_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide swiper-slide-active"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="4 / 10" data-swiper-slide-index="3"
-                                                                style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422600766_359265770311276_7440177529960321076_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwNCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MDA3NjZfMzU5MjY1NzcwMzExMjc2Xzc0NDAxNzc1Mjk5NjAzMjEwNzZfbi0yLmpwZyIsInNsaWRlc2hvdyI6ImNjZGMyZmUifQ%3D%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n-2.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n-2.jpg"
-                                                                            alt="422600766_359265770311276_7440177529960321076_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide swiper-slide-next" role="group"
-                                                                aria-roledescription="slide" aria-label="5 / 10"
-                                                                data-swiper-slide-index="4" aria-hidden="true"
-                                                                inert="" style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422669721_359265966977923_3099801667743727620_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU5NSwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2Njk3MjFfMzU5MjY1OTY2OTc3OTIzXzMwOTk4MDE2Njc3NDM3Mjc2MjBfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422669721_359265966977923_3099801667743727620_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422669721_359265966977923_3099801667743727620_n.jpg"
-                                                                            alt="422669721_359265966977923_3099801667743727620_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="6 / 10"
-                                                                data-swiper-slide-index="5" aria-hidden="true"
-                                                                inert="" style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422692654_359265850311268_5350447272894240731_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwMCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2OTI2NTRfMzU5MjY1ODUwMzExMjY4XzUzNTA0NDcyNzI4OTQyNDA3MzFfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422692654_359265850311268_5350447272894240731_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422692654_359265850311268_5350447272894240731_n.jpg"
-                                                                            alt="422692654_359265850311268_5350447272894240731_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="7 / 10"
-                                                                data-swiper-slide-index="6" aria-hidden="true"
-                                                                inert="" style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422581479_359265670311286_6496667486036451339_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwMywidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI1ODE0NzlfMzU5MjY1NjcwMzExMjg2XzY0OTY2Njc0ODYwMzY0NTEzMzlfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422581479_359265670311286_6496667486036451339_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422581479_359265670311286_6496667486036451339_n.jpg"
-                                                                            alt="422581479_359265670311286_6496667486036451339_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="8 / 10"
-                                                                data-swiper-slide-index="7" aria-hidden="true"
-                                                                inert="" style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422651937_359265940311259_2531418361834037127_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU5NiwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2NTE5MzdfMzU5MjY1OTQwMzExMjU5XzI1MzE0MTgzNjE4MzQwMzcxMjdfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422651937_359265940311259_2531418361834037127_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422651937_359265940311259_2531418361834037127_n.jpg"
-                                                                            alt="422651937_359265940311259_2531418361834037127_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="9 / 10"
-                                                                data-swiper-slide-index="8" aria-hidden="true"
-                                                                inert="" style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422640513_359265820311271_2919909162438375041_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwMSwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2NDA1MTNfMzU5MjY1ODIwMzExMjcxXzI5MTk5MDkxNjI0MzgzNzUwNDFfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422640513_359265820311271_2919909162438375041_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422640513_359265820311271_2919909162438375041_n.jpg"
-                                                                            alt="422640513_359265820311271_2919909162438375041_n">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="10 / 10"
-                                                                data-swiper-slide-index="9" aria-hidden="true"
-                                                                inert="" style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422600766_359265770311276_7440177529960321076_n (1)"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwMiwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MDA3NjZfMzU5MjY1NzcwMzExMjc2Xzc0NDAxNzc1Mjk5NjAzMjEwNzZfbi0xLTEuanBnIiwic2xpZGVzaG93IjoiY2NkYzJmZSJ9"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n-1-1.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n-1-1.jpg"
-                                                                            alt="422600766_359265770311276_7440177529960321076_n (1)">
-                                                                    </figure>
-                                                                </a></div>
-                                                            <div class="swiper-slide swiper-slide-duplicate"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="1 / 10" data-swiper-slide-index="0"
-                                                                aria-hidden="true" inert=""
-                                                                style="width: 550px;"><a
-                                                                    data-elementor-open-lightbox="yes"
-                                                                    data-elementor-lightbox-slideshow="ccdc2fe"
-                                                                    data-elementor-lightbox-title="422610533_359265996977920_7737582052476002751_n"
-                                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU5NCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MTA1MzNfMzU5MjY1OTk2OTc3OTIwXzc3Mzc1ODIwNTI0NzYwMDI3NTFfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
-                                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422610533_359265996977920_7737582052476002751_n.jpg">
-                                                                    <figure class="swiper-slide-inner"><img
-                                                                            decoding="async"
-                                                                            class="swiper-slide-image"
-                                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422610533_359265996977920_7737582052476002751_n.jpg"
-                                                                            alt="422610533_359265996977920_7737582052476002751_n">
-                                                                    </figure>
-                                                                </a></div>
+
+                                                            @isset($page->data['slider2'])
+                                                                @foreach ($page->data['slider2'] as $image)
+                                                                    <div class="swiper-slide" role="group"
+                                                                        aria-roledescription="slide" aria-label="1 / 10"
+                                                                        data-swiper-slide-index="0" aria-hidden="true"
+                                                                        inert="" style="width: 550px;"><a
+                                                                            data-elementor-open-lightbox="yes"
+                                                                            data-elementor-lightbox-slideshow="ccdc2fe"
+                                                                            data-elementor-lightbox-title="{{ $image }}"
+                                                                            data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU5NCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MTA1MzNfMzU5MjY1OTk2OTc3OTIwXzc3Mzc1ODIwNTI0NzYwMDI3NTFfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
+                                                                            href="/storage/{{ $image }}">
+                                                                            <figure class="swiper-slide-inner"><img
+                                                                                    decoding="async"
+                                                                                    class="swiper-slide-image"
+                                                                                    src="/storage/{{ $image }}"
+                                                                                    alt="{{ $image }}">
+                                                                            </figure>
+                                                                        </a></div>
+                                                                @endforeach
+                                                            @endisset
+
+
                                                         </div>
                                                         <div class="elementor-swiper-button elementor-swiper-button-prev"
                                                             role="button" tabindex="0" aria-label="Previous slide"
@@ -1567,7 +1298,8 @@
                                                                 class="swiper-pagination-bullet" data-bullet-index="8"
                                                                 aria-label="Go to slide 9"></span><span
                                                                 class="swiper-pagination-bullet" data-bullet-index="9"
-                                                                aria-label="Go to slide 10"></span></div>
+                                                                aria-label="Go to slide 10"></span>
+                                                        </div>
                                                         <span class="swiper-notification" aria-live="assertive"
                                                             aria-atomic="true"></span>
                                                     </div>
@@ -1592,8 +1324,11 @@
                             <div class="elementor-element elementor-element-2302e35d elementor-widget elementor-widget-heading"
                                 data-id="2302e35d" data-element_type="widget" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">আনস্টিজ ২ পিস এর
-                                        বৈশিষ্ট্য</h2>
+                                    <h2 class="elementor-heading-title elementor-size-default">
+                                        @isset($page->data['hedding2'])
+                                            {{ $page->data['hedding2'] }}
+                                        @endisset
+                                    </h2>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-5ccbcd1e elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
@@ -1733,58 +1468,72 @@
                                     <link rel="stylesheet"
                                         href="https://elegentbd.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
                                     <ul class="elementor-icon-list-items">
-                                        <li class="elementor-icon-list-item">
-                                            <span class="elementor-icon-list-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-circle"
-                                                    viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
-                                                    </path>
-                                                </svg> </span>
-                                            <span class="elementor-icon-list-text">লং ৪৭ &gt; ফেব্রিক্স সুতি। </span>
-                                        </li>
-                                        <li class="elementor-icon-list-item">
-                                            <span class="elementor-icon-list-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-circle"
-                                                    viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
-                                                    </path>
-                                                </svg> </span>
-                                            <span class="elementor-icon-list-text">জামা ওড়না ২ পিস সেট। </span>
-                                        </li>
-                                        <li class="elementor-icon-list-item">
-                                            <span class="elementor-icon-list-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-circle"
-                                                    viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
-                                                    </path>
-                                                </svg> </span>
-                                            <span class="elementor-icon-list-text">৬০ বডি বানাতে পর্যন্ত পারবে।</span>
-                                        </li>
-                                        <li class="elementor-icon-list-item">
-                                            <span class="elementor-icon-list-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-circle"
-                                                    viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
-                                                    </path>
-                                                </svg> </span>
-                                            <span class="elementor-icon-list-text">ওড়নার কাপড় দেওয়া আছে ৫.৫
-                                                হাত।</span>
-                                        </li>
-                                        <li class="elementor-icon-list-item">
-                                            <span class="elementor-icon-list-icon">
-                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-circle"
-                                                    viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
-                                                    </path>
-                                                </svg> </span>
-                                            <span class="elementor-icon-list-text">ডিজিটাল প্রিন্ট করা রং যাবে
-                                                না।</span>
-                                        </li>
+
+                                        @isset($page->data['point1'])
+                                            <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-circle"
+                                                        viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                        </path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text">{{ $page->data['point1'] }}</span>
+                                            </li>
+                                        @endisset
+
+                                        @isset($page->data['point2'])
+                                            <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-circle"
+                                                        viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                        </path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text">{{ $page->data['point2'] }}</span>
+                                            </li>
+                                        @endisset
+
+                                        @isset($page->data['point3'])
+                                            <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-circle"
+                                                        viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                        </path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text">{{ $page->data['point3'] }}</span>
+                                            </li>
+                                        @endisset
+
+                                        @isset($page->data['point4'])
+                                            <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-circle"
+                                                        viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                        </path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text">{{ $page->data['point4'] }}</span>
+                                            </li>
+                                        @endisset
+
+                                        @isset($page->data['point5'])
+                                            <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-circle"
+                                                        viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z">
+                                                        </path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text">{{ $page->data['point5'] }}</span>
+                                            </li>
+                                        @endisset
+
                                     </ul>
                                 </div>
                             </div>
@@ -1825,120 +1574,29 @@
                                         <div class="elementor-image-carousel swiper-wrapper" aria-live="off"
                                             id="swiper-wrapper-566d2f4b5176d7b4"
                                             style="transform: translate3d(-2650px, 0px, 0px); transition-duration: 0ms;">
-                                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
-                                                role="group" aria-roledescription="slide" aria-label="6 / 6"
-                                                data-swiper-slide-index="5" style="width: 530px;" aria-hidden="true"
-                                                inert=""><a data-elementor-open-lightbox="yes"
-                                                    data-elementor-lightbox-slideshow="2826e25"
-                                                    data-elementor-lightbox-title="422600766_359265770311276_7440177529960321076_n (1)"
-                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwMiwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MDA3NjZfMzU5MjY1NzcwMzExMjc2Xzc0NDAxNzc1Mjk5NjAzMjEwNzZfbi0xLTEuanBnIiwic2xpZGVzaG93IjoiMjgyNmUyNSJ9"
-                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n-1-1.jpg">
-                                                    <figure class="swiper-slide-inner"><img decoding="async"
-                                                            class="swiper-slide-image"
-                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n-1-1.jpg"
-                                                            alt="422600766_359265770311276_7440177529960321076_n (1)">
-                                                    </figure>
-                                                </a></div>
-                                            <div class="swiper-slide" role="group" aria-roledescription="slide"
-                                                aria-label="1 / 6" data-swiper-slide-index="0" style="width: 530px;"
-                                                aria-hidden="true" inert=""><a
-                                                    data-elementor-open-lightbox="yes"
-                                                    data-elementor-lightbox-slideshow="2826e25"
-                                                    data-elementor-lightbox-title="422641741_359328580304995_5237390097039025017_n"
-                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYxMCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2NDE3NDFfMzU5MzI4NTgwMzA0OTk1XzUyMzczOTAwOTcwMzkwMjUwMTdfbi5qcGciLCJzbGlkZXNob3ciOiIyODI2ZTI1In0%3D"
-                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422641741_359328580304995_5237390097039025017_n.jpg">
-                                                    <figure class="swiper-slide-inner"><img decoding="async"
-                                                            class="swiper-slide-image"
-                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422641741_359328580304995_5237390097039025017_n.jpg"
-                                                            alt="422641741_359328580304995_5237390097039025017_n">
-                                                    </figure>
-                                                </a></div>
-                                            <div class="swiper-slide" role="group" aria-roledescription="slide"
-                                                aria-label="2 / 6" data-swiper-slide-index="1" style="width: 530px;"
-                                                aria-hidden="true" inert=""><a
-                                                    data-elementor-open-lightbox="yes"
-                                                    data-elementor-lightbox-slideshow="2826e25"
-                                                    data-elementor-lightbox-title="422610533_359265996977920_7737582052476002751_n"
-                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU5NCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MTA1MzNfMzU5MjY1OTk2OTc3OTIwXzc3Mzc1ODIwNTI0NzYwMDI3NTFfbi5qcGciLCJzbGlkZXNob3ciOiIyODI2ZTI1In0%3D"
-                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422610533_359265996977920_7737582052476002751_n.jpg">
-                                                    <figure class="swiper-slide-inner"><img decoding="async"
-                                                            class="swiper-slide-image"
-                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422610533_359265996977920_7737582052476002751_n.jpg"
-                                                            alt="422610533_359265996977920_7737582052476002751_n">
-                                                    </figure>
-                                                </a></div>
-                                            <div class="swiper-slide" role="group" aria-roledescription="slide"
-                                                aria-label="3 / 6" data-swiper-slide-index="2" style="width: 530px;"
-                                                aria-hidden="true" inert=""><a
-                                                    data-elementor-open-lightbox="yes"
-                                                    data-elementor-lightbox-slideshow="2826e25"
-                                                    data-elementor-lightbox-title="422596097_359328643638322_2952602901136048108_n"
-                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwNywidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI1OTYwOTdfMzU5MzI4NjQzNjM4MzIyXzI5NTI2MDI5MDExMzYwNDgxMDhfbi5qcGciLCJzbGlkZXNob3ciOiIyODI2ZTI1In0%3D"
-                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422596097_359328643638322_2952602901136048108_n.jpg">
-                                                    <figure class="swiper-slide-inner"><img decoding="async"
-                                                            class="swiper-slide-image"
-                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422596097_359328643638322_2952602901136048108_n.jpg"
-                                                            alt="422596097_359328643638322_2952602901136048108_n">
-                                                    </figure>
-                                                </a></div>
-                                            <div class="swiper-slide swiper-slide-prev" role="group"
-                                                aria-roledescription="slide" aria-label="4 / 6"
-                                                data-swiper-slide-index="3" style="width: 530px;" aria-hidden="true"
-                                                inert=""><a data-elementor-open-lightbox="yes"
-                                                    data-elementor-lightbox-slideshow="2826e25"
-                                                    data-elementor-lightbox-title="422600766_359265770311276_7440177529960321076_n"
-                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU4NywidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MDA3NjZfMzU5MjY1NzcwMzExMjc2Xzc0NDAxNzc1Mjk5NjAzMjEwNzZfbi5qcGciLCJzbGlkZXNob3ciOiIyODI2ZTI1In0%3D"
-                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n.jpg">
-                                                    <figure class="swiper-slide-inner"><img decoding="async"
-                                                            class="swiper-slide-image"
-                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n.jpg"
-                                                            alt="422600766_359265770311276_7440177529960321076_n">
-                                                    </figure>
-                                                </a></div>
-                                            <div class="swiper-slide swiper-slide-active" role="group"
-                                                aria-roledescription="slide" aria-label="5 / 6"
-                                                data-swiper-slide-index="4" style="width: 530px;"><a
-                                                    data-elementor-open-lightbox="yes"
-                                                    data-elementor-lightbox-slideshow="2826e25"
-                                                    data-elementor-lightbox-title="422616062_359328610304992_8750379479269657496_n"
-                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwOCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MTYwNjJfMzU5MzI4NjEwMzA0OTkyXzg3NTAzNzk0NzkyNjk2NTc0OTZfbi5qcGciLCJzbGlkZXNob3ciOiIyODI2ZTI1In0%3D"
-                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422616062_359328610304992_8750379479269657496_n.jpg">
-                                                    <figure class="swiper-slide-inner"><img decoding="async"
-                                                            class="swiper-slide-image"
-                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422616062_359328610304992_8750379479269657496_n.jpg"
-                                                            alt="422616062_359328610304992_8750379479269657496_n">
-                                                    </figure>
-                                                </a></div>
-                                            <div class="swiper-slide swiper-slide-next" role="group"
-                                                aria-roledescription="slide" aria-label="6 / 6"
-                                                data-swiper-slide-index="5" style="width: 530px;"
-                                                aria-hidden="true" inert=""><a
-                                                    data-elementor-open-lightbox="yes"
-                                                    data-elementor-lightbox-slideshow="2826e25"
-                                                    data-elementor-lightbox-title="422  600766_359265770311276_7440177529960321076_n (1)"
-                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYwMiwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MDA3NjZfMzU5MjY1NzcwMzExMjc2Xzc0NDAxNzc1Mjk5NjAzMjEwNzZfbi0xLTEuanBnIiwic2xpZGVzaG93IjoiMjgyNmUyNSJ9"
-                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n-1-1.jpg">
-                                                    <figure class="swiper-slide-inner"><img decoding="async"
-                                                            class="swiper-slide-image"
-                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422600766_359265770311276_7440177529960321076_n-1-1.jpg"
-                                                            alt="422600766_359265770311276_7440177529960321076_n (1)">
-                                                    </figure>
-                                                </a></div>
-                                            <div class="swiper-slide swiper-slide-duplicate" role="group"
-                                                aria-roledescription="slide" aria-label="1 / 6"
-                                                data-swiper-slide-index="0" style="width: 530px;"
-                                                aria-hidden="true" inert=""><a
-                                                    data-elementor-open-lightbox="yes"
-                                                    data-elementor-lightbox-slideshow="2826e25"
-                                                    data-elementor-lightbox-title="422641741_359328580304995_5237390097039025017_n"
-                                                    data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODYxMCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2NDE3NDFfMzU5MzI4NTgwMzA0OTk1XzUyMzczOTAwOTcwMzkwMjUwMTdfbi5qcGciLCJzbGlkZXNob3ciOiIyODI2ZTI1In0%3D"
-                                                    href="https://elegentbd.com/wp-content/uploads/2024/02/422641741_359328580304995_5237390097039025017_n.jpg">
-                                                    <figure class="swiper-slide-inner"><img decoding="async"
-                                                            class="swiper-slide-image"
-                                                            src="https://elegentbd.com/wp-content/uploads/2024/02/422641741_359328580304995_5237390097039025017_n.jpg"
-                                                            alt="422641741_359328580304995_5237390097039025017_n">
-                                                    </figure>
-                                                </a></div>
+
+
+                                            @isset($page->data['slider3'])
+                                                @foreach ($page->data['slider3'] as $image)
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide"
+                                                        aria-label="1 / 10" data-swiper-slide-index="0"
+                                                        aria-hidden="true" inert="" style="width: 550px;"><a
+                                                            data-elementor-open-lightbox="yes"
+                                                            data-elementor-lightbox-slideshow="ccdc2fe"
+                                                            data-elementor-lightbox-title="{{ $image }}"
+                                                            data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODU5NCwidXJsIjoiaHR0cHM6XC9cL2VsZWdlbnRiZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC80MjI2MTA1MzNfMzU5MjY1OTk2OTc3OTIwXzc3Mzc1ODIwNTI0NzYwMDI3NTFfbi5qcGciLCJzbGlkZXNob3ciOiJjY2RjMmZlIn0%3D"
+                                                            href="/storage/{{ $image }}">
+                                                            <figure class="swiper-slide-inner"><img decoding="async"
+                                                                    class="swiper-slide-image"
+                                                                    src="/storage/{{ $image }}"
+                                                                    alt="{{ $image }}">
+                                                            </figure>
+                                                        </a></div>
+                                                @endforeach
+                                            @endisset
+
+
+
                                         </div>
                                         <div class="elementor-swiper-button elementor-swiper-button-prev"
                                             role="button" tabindex="0" aria-label="Previous slide"
@@ -1974,7 +1632,8 @@
                                                 class="swiper-pagination-bullet swiper-pagination-bullet-active"
                                                 data-bullet-index="4" aria-label="Go to slide 5" tabindex="0"
                                                 aria-current="true"></span><span class="swiper-pagination-bullet"
-                                                data-bullet-index="5" aria-label="Go to slide 6"></span></div>
+                                                data-bullet-index="5" aria-label="Go to slide 6"></span>
+                                        </div>
                                         <span class="swiper-notification" aria-live="assertive"
                                             aria-atomic="true"></span>
                                     </div>
@@ -1991,56 +1650,56 @@
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3fd348e9"
                         data-id="3fd348e9" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-c66a2f9 elementor-widget elementor-widget-text-editor"
-                                data-id="c66a2f9" data-element_type="widget"
-                                data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <style>
-                                        /*! elementor - v3.18.0 - 20-12-2023 */
-                                        .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
-                                            background-color: #69727d;
-                                            color: #fff
-                                        }
+                            @isset($page->data['paragraph1'])
+                                <div class="elementor-element elementor-element-c66a2f9 elementor-widget elementor-widget-text-editor"
+                                    data-id="c66a2f9" data-element_type="widget" data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                        <style>
+                                            /*! elementor - v3.18.0 - 20-12-2023 */
+                                            .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+                                                background-color: #69727d;
+                                                color: #fff
+                                            }
 
-                                        .elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap {
-                                            color: #69727d;
-                                            border: 3px solid;
-                                            background-color: transparent
-                                        }
+                                            .elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap {
+                                                color: #69727d;
+                                                border: 3px solid;
+                                                background-color: transparent
+                                            }
 
-                                        .elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap {
-                                            margin-top: 8px
-                                        }
+                                            .elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap {
+                                                margin-top: 8px
+                                            }
 
-                                        .elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter {
-                                            width: 1em;
-                                            height: 1em
-                                        }
+                                            .elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter {
+                                                width: 1em;
+                                                height: 1em
+                                            }
 
-                                        .elementor-widget-text-editor .elementor-drop-cap {
-                                            float: left;
-                                            text-align: center;
-                                            line-height: 1;
-                                            font-size: 50px
-                                        }
+                                            .elementor-widget-text-editor .elementor-drop-cap {
+                                                float: left;
+                                                text-align: center;
+                                                line-height: 1;
+                                                font-size: 50px
+                                            }
 
-                                        .elementor-widget-text-editor .elementor-drop-cap-letter {
-                                            display: inline-block
-                                        }
-                                    </style>
-                                    <p>বাজারের কপি ২ পিসের সঙ্গে আমাদের প্রোডাক্ট কে তুলনা করবেন না। আমরা নিজস্ব
-                                        তত্ত্বাবধানে ইসলামপুরে আমাদের নিজস্ব ফ্যাক্টরিতে মেনুফ্যাকচারিং করে থাকি। কারন
-                                        আমরা সম্পূর্ণ কাপড় নিজেরা প্রস্তুত করি কাপড়ের ওড়না ও জামার কাপড় সম্পূর্ণ
-                                        সুতি কাপড়।</p>
+                                            .elementor-widget-text-editor .elementor-drop-cap-letter {
+                                                display: inline-block
+                                            }
+                                        </style>
+                                        <p>{{ $page->data['paragraph1'] }}</p>
+                                    </div>
                                 </div>
-                            </div>
+                            @endisset
                             <div class="elementor-element elementor-element-d4d19e6 elementor-widget elementor-widget-text-editor"
-                                data-id="d4d19e6" data-element_type="widget"
-                                data-widget_type="text-editor.default">
+                                data-id="d4d19e6" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-                                    <h3>আমরা দীর্ঘ পাঁচ বছর যাবত ব্যবসা করে আসছি। আমাদের দুইটি পেজ Closet by Urmi &amp;
-                                        Elegent এই পেজগুলোতে আমাদের রিএল দশ লক্ষ কাস্টোমার আছে বাংলাদেশে</h3>
-                                    <h3><strong>সুতরাং জেনে বুঝে যাচাই করে কিনবেন।</strong></h3>
+                                    @isset($page->data['paragraph2'])
+                                        <h3>{{ $page->data['paragraph2'] }}</h3>
+                                    @endisset
+                                    @isset($page->data['paragraph3'])
+                                        <h3><strong>{{ $page->data['paragraph3'] }}</strong></h3>
+                                    @endisset
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-1eb4728a elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline"
@@ -2051,15 +1710,24 @@
                                     <link rel="stylesheet"
                                         href="https://elegentbd.com/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css">
                                     <h3 class="elementor-headline">
-                                        <span class="elementor-headline-plain-text elementor-headline-text-wrapper">
-                                            আনস্টিজ ২ পিস সেটর পূর্বের মূল্য </span>
-                                        <span
-                                            class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+                                        @isset($page->data['old_price_b_text'])
+                                            <span class="elementor-headline-plain-text elementor-headline-text-wrapper">
+                                                {{ $page->data['old_price_b_text'] }}</span>
+                                        @endisset
+
+                                        @isset($page->data['old_price'])
                                             <span
-                                                class="elementor-headline-dynamic-text elementor-headline-text-active">১৬০০/-</span>
-                                        </span>
-                                        <span
-                                            class="elementor-headline-plain-text elementor-headline-text-wrapper">টাকা</span>
+                                                class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+                                                <span
+                                                    class="elementor-headline-dynamic-text elementor-headline-text-active">{{ $page->data['old_price'] }}</span>
+                                            </span>
+                                        @endisset
+
+                                        @isset($page->data['old_price_a_text'])
+                                            <span
+                                                class="elementor-headline-plain-text elementor-headline-text-wrapper">{{ $page->data['old_price_a_text'] }}</span>
+                                        @endisset
+
                                     </h3>
                                 </div>
                             </div>
@@ -2074,8 +1742,12 @@
                                             অফার মূল্য মাত্র</span>
                                         <span
                                             class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+
+                                            @isset($page->data['now_price'])
                                             <span
-                                                class="elementor-headline-dynamic-text elementor-headline-text-active">১২০০/-</span>
+                                                class="elementor-headline-dynamic-text elementor-headline-text-active">{{$page->data['now_price']}}</span>
+                                            @endisset
+                                            
                                         </span>
                                         <span
                                             class="elementor-headline-plain-text elementor-headline-text-wrapper">টাকা</span>
@@ -2083,8 +1755,7 @@
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-6cf96414 elementor-widget elementor-widget-text-editor"
-                                data-id="6cf96414" data-element_type="widget"
-                                data-widget_type="text-editor.default">
+                                data-id="6cf96414" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     অফারটি লুফে নিতে এখনি <span style="color: #38b000">“অর্ডার করতে চাই”</span> বাটনে
                                     ক্লিক করুন </div>
@@ -2126,7 +1797,7 @@
                                 data-id="65a2a321" data-element_type="widget" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
                                     <h2 class="elementor-heading-title elementor-size-default"><a
-                                            href="http://wa.me/880%201708413873">আমাদের মেসেঞ্জারে 24 ঘন্টা প্রতিনিধি
+                                            href="http://wa.me/8801406667669">আমাদের মেসেঞ্জারে 24 ঘন্টা প্রতিনিধি
                                             একটিভ থাকে কোন সমস্যা হলে সাথে সাথে মেসেঞ্জারে মেসেজ করবেন।</a></h2>
                                 </div>
                             </div>
@@ -2143,7 +1814,7 @@
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
                                                         <a class="elementor-button elementor-button-link elementor-size-md elementor-animation-pulse"
-                                                            href="https://m.me/elegent.me">
+                                                            href="https://m.me/1067559563447255">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span
                                                                     class="elementor-button-icon elementor-align-icon-left">
@@ -2172,7 +1843,7 @@
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
                                                         <a class="elementor-button elementor-button-link elementor-size-md elementor-animation-pulse"
-                                                            href="https://wa.me/8801708413873">
+                                                            href="https://wa.me/8801406667669">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span
                                                                     class="elementor-button-icon elementor-align-icon-left">
@@ -2184,7 +1855,7 @@
                                                                             d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z">
                                                                         </path>
                                                                     </svg> </span>
-                                                                <span class="elementor-button-text">01708413873</span>
+                                                                <span class="elementor-button-text">01406667669</span>
                                                             </span>
                                                         </a>
                                                     </div>
@@ -2317,10 +1988,11 @@
                             </div>
                             <div class="elementor-element elementor-element-08fa97f elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline"
                                 data-id="08fa97f" data-element_type="widget"
-                                data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;01625032937&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}"
+                                data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;@isset($page->data['mobile1']){{ $page->data['mobile1'] }}@endisset&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}"
                                 data-widget_type="animated-headline.default">
                                 <div class="elementor-widget-container">
-                                    <a href="tel:01625032937">
+                                    <a
+                                        href="tel:@isset($page->data['mobile1']){{ $page->data['mobile1'] }}@endisset">
 
                                         <h3 class="elementor-headline">
                                             <span
@@ -2329,7 +2001,11 @@
                                             <span
                                                 class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
                                                 <span
-                                                    class="elementor-headline-dynamic-text elementor-headline-text-active">01625032937</span>
+                                                    class="elementor-headline-dynamic-text elementor-headline-text-active">
+                                                    @isset($page->data['mobile1'])
+                                                        {{ $page->data['mobile1'] }}
+                                                    @endisset
+                                                </span>
                                             </span>
                                         </h3>
                                     </a>
@@ -2337,10 +2013,11 @@
                             </div>
                             <div class="elementor-element elementor-element-9f7bcc0 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline"
                                 data-id="9f7bcc0" data-element_type="widget"
-                                data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;01604521463&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}"
+                                data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;@isset($page->data['mobile2']){{ $page->data['mobile2'] }}@endisset&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}"
                                 data-widget_type="animated-headline.default">
                                 <div class="elementor-widget-container">
-                                    <a href="tel:01604521463">
+                                    <a
+                                        href="tel:@isset($page->data['mobile2']){{ $page->data['mobile2'] }}@endisset">
 
                                         <h3 class="elementor-headline">
                                             <span
@@ -2349,7 +2026,11 @@
                                             <span
                                                 class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
                                                 <span
-                                                    class="elementor-headline-dynamic-text elementor-headline-text-active">01604521463</span>
+                                                    class="elementor-headline-dynamic-text elementor-headline-text-active">
+                                                    @isset($page->data['mobile2'])
+                                                        {{ $page->data['mobile2'] }}
+                                                    @endisset
+                                                </span>
                                             </span>
                                         </h3>
                                     </a>
@@ -2385,8 +2066,7 @@
                                                                 data-options="{&quot;product_id&quot;:8590,&quot;variation_id&quot;:0,&quot;type&quot;:&quot;simple&quot;,&quot;unique_id&quot;:&quot;anw5z4c3&quot;,&quot;mode&quot;:&quot;quantity&quot;,&quot;highlight_text&quot;:&quot;&quot;,&quot;quantity&quot;:&quot;1&quot;,&quot;default_quantity&quot;:1,&quot;original_price&quot;:&quot;1200&quot;,&quot;discounted_price&quot;:&quot;&quot;,&quot;total_discounted_price&quot;:&quot;&quot;,&quot;currency&quot;:&quot;&amp;#2547;&amp;nbsp;&quot;,&quot;cart_item_key&quot;:&quot;e4b8b605dbe09ce87f4982ff9aab6036&quot;,&quot;save_value&quot;:&quot;&quot;,&quot;save_percent&quot;:&quot;&quot;,&quot;sign_up_fee&quot;:0,&quot;subscription_price&quot;:&quot;1200&quot;,&quot;trial_period_string&quot;:&quot;&quot;}">
 
                                                                 <div class="wcf-item">
-                                                                    <div
-                                                                        class="wcf-item-selector wcf-item-single-sel">
+                                                                    <div class="wcf-item-selector wcf-item-single-sel">
                                                                         <input class="wcf-single-sel" type="radio"
                                                                             id="wcf-item-product-8590"
                                                                             name="wcf-single-sel" value="8590"
@@ -2444,8 +2124,7 @@
                                                                 data-options="{&quot;product_id&quot;:8586,&quot;variation_id&quot;:0,&quot;type&quot;:&quot;simple&quot;,&quot;unique_id&quot;:&quot;hfm73lcg&quot;,&quot;mode&quot;:&quot;quantity&quot;,&quot;highlight_text&quot;:&quot;&quot;,&quot;quantity&quot;:&quot;1&quot;,&quot;default_quantity&quot;:1,&quot;original_price&quot;:&quot;1200&quot;,&quot;discounted_price&quot;:&quot;&quot;,&quot;total_discounted_price&quot;:&quot;&quot;,&quot;currency&quot;:&quot;&amp;#2547;&amp;nbsp;&quot;,&quot;cart_item_key&quot;:&quot;&quot;,&quot;save_value&quot;:&quot;&quot;,&quot;save_percent&quot;:&quot;&quot;,&quot;sign_up_fee&quot;:0,&quot;subscription_price&quot;:&quot;1200&quot;,&quot;trial_period_string&quot;:&quot;&quot;}">
 
                                                                 <div class="wcf-item">
-                                                                    <div
-                                                                        class="wcf-item-selector wcf-item-single-sel">
+                                                                    <div class="wcf-item-selector wcf-item-single-sel">
                                                                         <input class="wcf-single-sel" type="radio"
                                                                             id="wcf-item-product-8586"
                                                                             name="wcf-single-sel" value="8586">
@@ -2502,8 +2181,7 @@
                                                                 data-options="{&quot;product_id&quot;:8617,&quot;variation_id&quot;:0,&quot;type&quot;:&quot;simple&quot;,&quot;unique_id&quot;:&quot;b9691fd9&quot;,&quot;mode&quot;:&quot;quantity&quot;,&quot;highlight_text&quot;:&quot;&quot;,&quot;quantity&quot;:&quot;1&quot;,&quot;default_quantity&quot;:1,&quot;original_price&quot;:&quot;2400&quot;,&quot;discounted_price&quot;:&quot;&quot;,&quot;total_discounted_price&quot;:&quot;&quot;,&quot;currency&quot;:&quot;&amp;#2547;&amp;nbsp;&quot;,&quot;cart_item_key&quot;:&quot;&quot;,&quot;save_value&quot;:&quot;&quot;,&quot;save_percent&quot;:&quot;&quot;,&quot;sign_up_fee&quot;:0,&quot;subscription_price&quot;:&quot;2400&quot;,&quot;trial_period_string&quot;:&quot;&quot;}">
 
                                                                 <div class="wcf-item">
-                                                                    <div
-                                                                        class="wcf-item-selector wcf-item-single-sel">
+                                                                    <div class="wcf-item-selector wcf-item-single-sel">
                                                                         <input class="wcf-single-sel" type="radio"
                                                                             id="wcf-item-product-8617"
                                                                             name="wcf-single-sel" value="8617">
@@ -2609,7 +2287,8 @@
                                                                                 name="billing_phone"
                                                                                 id="billing_phone" placeholder=""
                                                                                 value=""
-                                                                                autocomplete="tel"></span></p>
+                                                                                autocomplete="tel"></span>
+                                                                    </p>
                                                                     <p class="form-row form-row-wide address-field update_totals_on_change wcf-column-100 validate-required"
                                                                         id="billing_country_field"
                                                                         data-priority="110"><label
@@ -2676,7 +2355,8 @@
                                                                                         height="300"
                                                                                         src="https://elegentbd.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-16-at-04.35.44_60901133-300x300.jpg"
                                                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                                        alt=""> </div>
+                                                                                        alt="">
+                                                                                </div>
                                                                                 <div class="wcf-product-name">Chunri
                                                                                     Print 2 PIS Paste Colour</div>
                                                                             </div>&nbsp; <strong
@@ -2737,11 +2417,6 @@
 
                                                                         </td>
                                                                     </tr>
-
-
-
-
-
 
                                                                     <tr class="order-total">
                                                                         <th>Total</th>
