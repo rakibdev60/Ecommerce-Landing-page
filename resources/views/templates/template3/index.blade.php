@@ -7,6 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{ $page->data['hedding2'] }}</title>
 
+    <link rel="icon" type="image/x-icon" href="/favicon.jpeg">
+
     <!-- Meta Pixel Code -->
     <script>
         ! function(f, b, e, v, n, t, s) {
