@@ -20,15 +20,15 @@
         value="@isset($page->data['hedding']){{ $page->data['hedding'] }}@endisset">
 </div>
 <div class="mt-5">
-    <label for="name" class="control-label">Slider Image 1</label>
+    <label for="name" class="control-label">Slider Image 1 (720*1280)</label>
     <input class="form-control" name="data[slider1][]" type="file" multiple>
 </div>
 <div class="mt-5">
-    <label for="name" class="control-label">Slider Image 2</label>
+    <label for="name" class="control-label">Slider Image (720*1280)</label>
     <input class="form-control" name="data[slider2][]" type="file" multiple>
 </div>
 <div class="mt-5">
-    <label for="name" class="control-label">Slider Image 3</label>
+    <label for="name" class="control-label">Slider Image (720*1280)</label>
     <input class="form-control" name="data[slider3][]" type="file" multiple>
 </div>
 <div class="mt-5">
