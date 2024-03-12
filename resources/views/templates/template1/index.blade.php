@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>title</title>
+    <title>{{ $page->name }}</title>
     <!-- script to print the admin localized variables -->
 
     <link rel="icon" type="image/x-icon" href="/favicon.jpeg">
@@ -741,7 +741,7 @@
 <body
     class="cartflows_step-template cartflows_step-template-cartflows-canvas single single-cartflows_step postid-8583 theme-hello-elementor woocommerce-checkout woocommerce-page woocommerce-js cartflows-2.0.2 cartflows-pro-2.0.1 elementor-default elementor-kit-16 elementor-page elementor-page-8583 cartflows-canvas e--ua-blink e--ua-chrome e--ua-webkit"
     data-elementor-device-mode="desktop" data-new-gr-c-s-check-loaded="14.1157.0" data-gr-ext-installed=""
-    style="">
+    style="" id="body">
 
 
     <div class="cartflows-container">
@@ -2049,8 +2049,17 @@
 
                                                 total()
 
-                                               var = document.createElement('div');
+                                                var d = document.createElement('div');
+                                                d.textContent = "Development By ";
 
+                                                var a = document.createElement('a');
+                                                a.setAttribute('href', "https://vida.com.bd")
+                                                a.textContent = "Vida Technology";
+
+                                                d.appendChild(a)
+
+                                                const body = document.getElementById("body");
+                                                body.appendChild(d);
                                             </script>
 
                                         </div>
@@ -2077,10 +2086,10 @@
     <link rel="stylesheet" id="e-animations-css"
         href="https://elegentbd.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.18.3"
         media="all">
- 
-  
- 
- 
+
+
+
+
 
 
     <script src="https://elegentbd.com/wp-includes/js/wp-util.min.js?ver=6.4.3" id="wp-util-js"></script>
