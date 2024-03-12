@@ -1888,7 +1888,7 @@
                                                                             class="woocommerce-input-wrapper">
 
                                                                             <input type="number" class="input-text"
-                                                                                onchange="total()" id="quantity"
+                                                                                onchange="total()" id="quantity" required value="1"
                                                                                 name="products[{{ $product->id }}][quantity]">
 
                                                                             </span>
