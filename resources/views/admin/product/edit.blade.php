@@ -73,10 +73,16 @@
             if (Object.hasOwnProperty.call(object, key)) {
                 const element = object[key];
                 add_attribute(key, element);
-                if (attributes.value[key]) {
-                    attributes.value[key].forEach(value => {
-                        add_value(key, value);
-                    });
+                if (attributes.value && attributes.value[key]) {
+
+                    const object2 = attributes.value[key];
+
+                    for (const key2 in object2) {
+                        if (Object.hasOwnProperty.call(object2, key2)) {
+                            const element2 = object2[key2];
+                            add_value(key, element2, key2);
+                        }
+                    }
 
                 }
             }

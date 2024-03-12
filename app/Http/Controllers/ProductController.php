@@ -91,16 +91,32 @@ class ProductController extends Controller
             $data['image'] = $request->file('image')->store('photos');
         }
 
-        if ($request->has('attributes') && $request->has('attributes.image')) {
-            foreach ($request->file()['attributes']['image'] as $uuid => $file) {
-                foreach ($file as $key => $photo) {
-                    $data['attributes']['image'][$uuid][$key] = $photo->store('photos');
+        if ($request->has('attributes') && array_key_exists('value', request('attributes'))) {
+            foreach ($request->input('attributes')['value'] as $key => $array) {
+                foreach ($array as $key2 => $value) {
+                    if (
+                        array_key_exists('image', request('attributes', [])) &&
+                        array_key_exists($key, request('attributes.image', [])) &&
+                        array_key_exists($key2, request('attributes.image.' . $key, []))
+                    ) {
+                        $data['attributes']['image'][$key][$key2] = $request->file()['attributes']['image'][$key][$key2]->store('photos');
+                    } elseif (
+                        array_key_exists('image', $product->attributes) &&
+                        array_key_exists($key, $product->attributes['image']) &&
+                        array_key_exists($key2, $product->attributes['image'][$key])
+                    ) {
+                        $data['attributes']['image'][$key][$key2] = $product->attributes['image'][$key][$key2];
+                    } else {
+                        $data['attributes']['image'][$key][$key2] = null;
+                    }
                 }
             }
-
-            foreach ($data['attributes']['image'] as $key => $value) {
-                $data['attributes']['image'][$key] = array_merge($data['attributes']['image'][$key], $product->attributes['image'][$key]);
-            }
+        } else {
+            $data['attributes'] = [
+                'name' => [],
+                'value' => [],
+                'image' => [],
+            ];
         }
 
         $product->update($data);

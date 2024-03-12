@@ -1,8 +1,12 @@
 <script>
+    var attribute_index = 1;
+
     function add_attribute(uuid = null, value = "") {
         const element = document.getElementById("attributes");
 
-        uuid = uuid ?? Math.floor(Math.random() * 9999);
+        // uuid ganaret
+        uuid = uuid ? uuid : attribute_index;
+        attribute_index = (Number(uuid) + 1);
 
         // create a div
         const div = document.createElement("div");
@@ -32,16 +36,16 @@
         element.remove();
     }
 
-    function add_value(uuid, value = "") {
+    function add_value(uuid, value = "", uuid2 = null) {
         const element = document.getElementById('attribute_values_' + uuid);
         const div = document.createElement("div");
-        const uuid2 = Math.floor(Math.random() * 9999);
+        uuid2 = uuid2 ?? Math.floor(Math.random() * 9999) + 1;
         div.setAttribute('id', `attribute_value_${uuid2}`);
         div.setAttribute('class', 'flex gap-5 mb-5');
 
         const html = `
-        <input name="attributes[value][${uuid}][]" value="${value}" type="text">
-        <input name="attributes[image][${uuid}][]" type="file">
+        <input name="attributes[value][${uuid}][${uuid2}]" value="${value}" type="text">
+        <input name="attributes[image][${uuid}][${uuid2}]" type="file" value="">
         <button type="button" onclick="remove_value('attribute_value_${uuid2}')" class="text-red-600">Remove</button>`;
 
         div.innerHTML = html;
