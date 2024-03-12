@@ -52,7 +52,7 @@
                 {!! form_row($form->product_type) !!}
                 <div class="mt-5 font-bold dark:text-white">
                     <h1>Attributes</h1>
-                    <div id="add_attrute" class="mt-5">
+                    <div id="attributes" class="mt-5">
 
                     </div>
                     <button type="button" onclick="add_attribute()"

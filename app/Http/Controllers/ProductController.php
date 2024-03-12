@@ -41,11 +41,21 @@ class ProductController extends Controller
     {
         $data = $request->only('name', 'price', 'product_type', 'attributes');
 
-        $data['image'] = $request->file('image')->store('photos');
+        if ($request->hasFile('image')) {
+            $data['image'] = $request->file('image')->store('photos');
+        }
+
+        if ($request->has('attributes') && $request->has('attributes.image')) {
+            foreach ($request->file()['attributes']['image'] as $uuid => $file) {
+                foreach ($file as $key => $photo) {
+                    $data['attributes']['image'][$uuid][$key] = $photo->store('photos');
+                }
+            }
+        }
 
         $products = Product::create($data);
 
-       return redirect()->back();
+        return redirect()->back();
     }
 
     /**
@@ -63,11 +73,11 @@ class ProductController extends Controller
     {
         $form = $formBuilder->create(ProductForm::class, [
             'method' => 'PUT',
-            'url' => route('admin.pages.update', $product->id),
+            'url' => route('admin.products.update', $product->id),
             'model' => $product
         ]);
 
-        return view('admin.product.edit', compact('form'));
+        return view('admin.product.edit', compact('form', 'product'));
     }
 
     /**
@@ -75,7 +85,27 @@ class ProductController extends Controller
      */
     public function update(UpdateProductRequest $request, Product $product)
     {
-        //
+        $data = $request->only('name', 'price', 'product_type', 'attributes');
+
+        if ($request->hasFile('image')) {
+            $data['image'] = $request->file('image')->store('photos');
+        }
+
+        if ($request->has('attributes') && $request->has('attributes.image')) {
+            foreach ($request->file()['attributes']['image'] as $uuid => $file) {
+                foreach ($file as $key => $photo) {
+                    $data['attributes']['image'][$uuid][$key] = $photo->store('photos');
+                }
+            }
+
+            foreach ($data['attributes']['image'] as $key => $value) {
+                $data['attributes']['image'][$key] = array_merge($data['attributes']['image'][$key], $product->attributes['image'][$key]);
+            }
+        }
+
+        $product->update($data);
+
+        return redirect()->back();
     }
 
     /**
