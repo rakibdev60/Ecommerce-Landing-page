@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="profile" href="http://gmpg.org/xfn/11">
     <title>title</title>
     <!-- script to print the admin localized variables -->
+
+    <link rel="icon" type="image/x-icon" href="/favicon.jpeg">
+
     <script
         src="https://connect.facebook.net/signals/config/1680623819127789?v=2.9.148&amp;r=stable&amp;domain=elegentbd.com&amp;hme=20c913bdcd4be51a752120153aa5caaecb3ee86c7f26cf737846e40b202aba68&amp;ex_m=62%2C106%2C94%2C98%2C53%2C3%2C88%2C61%2C14%2C86%2C79%2C44%2C46%2C150%2C153%2C164%2C160%2C161%2C163%2C25%2C89%2C45%2C68%2C162%2C145%2C148%2C157%2C158%2C165%2C115%2C13%2C43%2C169%2C168%2C117%2C16%2C29%2C32%2C1%2C36%2C57%2C58%2C59%2C63%2C83%2C15%2C12%2C85%2C82%2C81%2C95%2C97%2C31%2C96%2C26%2C22%2C146%2C149%2C124%2C24%2C9%2C10%2C11%2C5%2C6%2C21%2C19%2C20%2C49%2C54%2C56%2C66%2C90%2C23%2C67%2C8%2C7%2C71%2C41%2C18%2C92%2C91%2C17%2C4%2C73%2C80%2C72%2C78%2C40%2C39%2C77%2C33%2C35%2C76%2C48%2C74%2C28%2C37%2C65%2C0%2C84%2C75%2C2%2C30%2C55%2C34%2C93%2C38%2C70%2C60%2C99%2C52%2C51%2C27%2C87%2C50%2C47%2C42%2C69%2C64%2C100"
         async=""></script>
@@ -731,14 +733,7 @@
     </noscript>
     <meta name="generator"
         content="Elementor 3.18.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
-    <link rel="icon"
-        href="https://elegentbd.com/wp-content/uploads/2023/12/cropped-326835200_675963777643124_608574674047537790_n-32x32.jpg"
-        sizes="32x32">
-    <link rel="icon"
-        href="https://elegentbd.com/wp-content/uploads/2023/12/cropped-326835200_675963777643124_608574674047537790_n-192x192.jpg"
-        sizes="192x192">
-    <link rel="apple-touch-icon"
-        href="https://elegentbd.com/wp-content/uploads/2023/12/cropped-326835200_675963777643124_608574674047537790_n-180x180.jpg">
+  
     <meta name="msapplication-TileImage"
         content="https://elegentbd.com/wp-content/uploads/2023/12/cropped-326835200_675963777643124_608574674047537790_n-270x270.jpg">
 </head>
@@ -1879,7 +1874,7 @@
                                                                                 class="required"
                                                                                 title="required">*</abbr></label><span
                                                                             class="woocommerce-input-wrapper">
-                                                                            
+
                                                                             <input type="number" class="input-text"
                                                                                 onchange="total()" id="quantity"
                                                                                 name="products[{{ $product->id }}][quantity]">
