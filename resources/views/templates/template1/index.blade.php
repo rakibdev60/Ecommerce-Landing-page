@@ -1582,13 +1582,18 @@
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ab1e843"
                         data-id="ab1e843" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
+
+                            @isset($page->data['hedding3'])
                             <div class="elementor-element elementor-element-1b4481c elementor-widget elementor-widget-heading"
                                 data-id="1b4481c" data-element_type="widget" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">আমাদের কাছ থেকে কেন
-                                        কিনবেন?</h2>
+                                    <h2 class="elementor-heading-title elementor-size-default">
+                                        {{ $page->data['hedding3'] }}
+                                    </h2>
                                 </div>
                             </div>
+                            @endisset
+
                             <div class="elementor-element elementor-element-8752e86 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
                                 data-id="8752e86" data-element_type="widget" data-widget_type="divider.default">
                                 <div class="elementor-widget-container">
@@ -1602,6 +1607,8 @@
                                 data-id="dba0968" data-element_type="widget" data-widget_type="icon-list.default">
                                 <div class="elementor-widget-container">
                                     <ul class="elementor-icon-list-items">
+
+                                        @isset($page->data['point6'])
                                         <li class="elementor-icon-list-item">
                                             <span class="elementor-icon-list-icon">
                                                 <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
@@ -1610,9 +1617,11 @@
                                                         d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
                                                     </path>
                                                 </svg> </span>
-                                            <span class="elementor-icon-list-text">আমরা নিজস্ব তত্ত্বাবধানে ইসলামপুরে
-                                                আমাদের নিজস্ব ফ্যাক্টরিতে মেনুফ্যাকচারিং করে থাকি। </span>
+                                            <span class="elementor-icon-list-text">{{ $page->data['point6'] }}</span>
                                         </li>
+                                        @endisset
+
+                                        @isset($page->data['point7'])
                                         <li class="elementor-icon-list-item">
                                             <span class="elementor-icon-list-icon">
                                                 <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
@@ -1621,9 +1630,11 @@
                                                         d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
                                                     </path>
                                                 </svg> </span>
-                                            <span class="elementor-icon-list-text">কারন আমরা সম্পূর্ণ কাপড় নিজেরা
-                                                প্রস্তুত করি কাপড়ের ওড়না ও জামার কাপড় সম্পূর্ণ সুতি কাপড়।</span>
+                                            <span class="elementor-icon-list-text">{{ $page->data['point7'] }}</span>
                                         </li>
+                                        @endisset
+
+                                        @isset($page->data['point8'])
                                         <li class="elementor-icon-list-item">
                                             <span class="elementor-icon-list-icon">
                                                 <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
@@ -1632,9 +1643,11 @@
                                                         d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
                                                     </path>
                                                 </svg> </span>
-                                            <span class="elementor-icon-list-text">আর আমাদের মোবাইল নাম্বারে সকাল দশটা
-                                                হতে রাত দশটা পর্যন্ত পাওয়া যাবে।</span>
+                                            <span class="elementor-icon-list-text">{{ $page->data['point8'] }}</span>
                                         </li>
+                                        @endisset
+
+                                        @isset($page->data['point9'])
                                         <li class="elementor-icon-list-item">
                                             <span class="elementor-icon-list-icon">
                                                 <svg aria-hidden="true" class="e-font-icon-svg e-fas-check-double"
@@ -1643,11 +1656,10 @@
                                                         d="M505 174.8l-39.6-39.6c-9.4-9.4-24.6-9.4-33.9 0L192 374.7 80.6 263.2c-9.4-9.4-24.6-9.4-33.9 0L7 302.9c-9.4 9.4-9.4 24.6 0 34L175 505c9.4 9.4 24.6 9.4 33.9 0l296-296.2c9.4-9.5 9.4-24.7.1-34zm-324.3 106c6.2 6.3 16.4 6.3 22.6 0l208-208.2c6.2-6.3 6.2-16.4 0-22.6L366.1 4.7c-6.2-6.3-16.4-6.3-22.6 0L192 156.2l-55.4-55.5c-6.2-6.3-16.4-6.3-22.6 0L68.7 146c-6.2 6.3-6.2 16.4 0 22.6l112 112.2z">
                                                     </path>
                                                 </svg> </span>
-                                            <span class="elementor-icon-list-text">যদি প্রোডাক্টের কোন সমস্যা থাকে
-                                                উক্ত প্রোডাক্টের একটা ভিডিও করে আমাদেরকে আমাদের ফেসবুক মেসেঞ্জার অথবা
-                                                হোয়াটসঅ্যাপে ভিডিও দিবেন। যদি আমরা সমস্যা যুক্তিযুক্ত মনে করি তাহলে
-                                                আমরা বিনা ডেলিভারি চার্জে প্রোডাক্ট এক্সচেঞ্জ করে দিব।</span>
+                                            <span class="elementor-icon-list-text">{{ $page->data['point9'] }}</span>
                                         </li>
+                                        @endisset
+
                                     </ul>
                                 </div>
                             </div>
