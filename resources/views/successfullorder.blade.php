@@ -847,7 +847,7 @@
         <div data-elementor-type="wp-post" data-elementor-id="8584" class="elementor elementor-8584"
             data-elementor-post-type="cartflows_step">
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-6ce599e elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class="elementor-section elementor-top-section elementor-element elementor-element-6ce599e elementor-section-boxed elementor-section-height-default"
                 data-id="6ce599e" data-element_type="section">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-68e96e2"
@@ -871,17 +871,17 @@
                                                     class="woocommerce-order-overview woocommerce-thankyou-order-details order_details">
 
                                                     <li class="woocommerce-order-overview__order order">
-                                                        Order number: <strong>21873</strong>
+                                                        Order number: <strong>{{$order->id}}</strong>
                                                     </li>
 
                                                     <li class="woocommerce-order-overview__date date">
-                                                        Date: <strong>13/03/2024</strong>
+                                                        Date: <strong>{{$order->created_at->format('d/m/Y')}}</strong>
                                                     </li>
 
 
                                                     <li class="woocommerce-order-overview__total total">
                                                         Total: <strong><span
-                                                                class="woocommerce-Price-amount amount"><bdi>1,350.00<span
+                                                                class="woocommerce-Price-amount amount"><bdi>{{$order->data['total']}}<span
                                                                         class="woocommerce-Price-currencySymbol">৳&nbsp;</span></bdi></span></strong>
                                                     </li>
 
@@ -912,21 +912,24 @@
                                                         </thead>
 
                                                         <tbody>
+
+                                                            @foreach ($products as $product)                
                                                             <tr class="woocommerce-table__line-item order_item">
 
                                                                 <td
                                                                     class="woocommerce-table__product-name product-name">
-                                                                    Chunri Print 2 PIS Paste Colour <strong
-                                                                        class="product-quantity">×&nbsp;1</strong>
+                                                                    {{$product['name']}} <strong
+                                                                        class="product-quantity">×&nbsp;{{$product['quantity']}}</strong>
                                                                 </td>
 
                                                                 <td
                                                                     class="woocommerce-table__product-total product-total">
-                                                                    <span class="woocommerce-Price-amount amount"><bdi>1,200.00<span
+                                                                    <span class="woocommerce-Price-amount amount"><bdi>{{$product['price']}}<span
                                                                                 class="woocommerce-Price-currencySymbol">৳&nbsp;</span></bdi></span>
                                                                 </td>
 
                                                             </tr>
+                                                            @endforeach
 
                                                         </tbody>
 
@@ -934,16 +937,15 @@
                                                             <tr>
                                                                 <th scope="row">Subtotal:</th>
                                                                 <td><span
-                                                                        class="woocommerce-Price-amount amount">1,200.00<span
+                                                                        class="woocommerce-Price-amount amount">{{$order->data['sub_total']}}<span
                                                                             class="woocommerce-Price-currencySymbol">৳&nbsp;</span></span>
                                                                 </td>
                                                             </tr>
                                                             <tr>
                                                                 <th scope="row">Shipping:</th>
                                                                 <td><span
-                                                                        class="woocommerce-Price-amount amount">150.00<span
-                                                                            class="woocommerce-Price-currencySymbol">৳&nbsp;</span></span>&nbsp;<small
-                                                                        class="shipped_via">via ঢাকার বাহিরে</small>
+                                                                        class="woocommerce-Price-amount amount">{{$order->data['shipping_charge']}}<span
+                                                                            class="woocommerce-Price-currencySymbol">৳&nbsp;</span></span>
                                                                 </td>
                                                             </tr>
                                                             <tr>
@@ -953,7 +955,7 @@
                                                             <tr>
                                                                 <th scope="row">Total:</th>
                                                                 <td><span
-                                                                        class="woocommerce-Price-amount amount">1,350.00<span
+                                                                        class="woocommerce-Price-amount amount">{{$order->data['total']}}<span
                                                                             class="woocommerce-Price-currencySymbol">৳&nbsp;</span></span>
                                                                 </td>
                                                             </tr>

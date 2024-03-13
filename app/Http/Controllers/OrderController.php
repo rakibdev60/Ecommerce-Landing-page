@@ -34,6 +34,7 @@ class OrderController extends Controller
     public function store(StoreOrderRequest $request)
     {
         $sub_total = 0;
+        $products = $request->products;
 
         foreach ($request->products as $product) {
             $sub_total +=  $product['price'] * $product['quantity'];
@@ -49,7 +50,7 @@ class OrderController extends Controller
             ]
         ]);
 
-        return view('successfullorder');
+        return view('successfullorder', compact('order', 'sub_total', 'products'));
     }
 
     /**
