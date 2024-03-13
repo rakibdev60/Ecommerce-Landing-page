@@ -30,6 +30,7 @@ Route::group(['as' => 'admin.', 'prefix' => 'admin', 'middleware' => 'auth'], fu
     Route::resource('pages', PageController::class);
     Route::resource('products', ProductController::class);
     Route::resource('orders', OrderController::class);
+
     Route::delete('orders/', [OrderController::class, 'bulkDelete'])->name('bulk_delete');
     Route::patch('orders/', [OrderController::class, 'bulkStatusChange'])->name('bulk_status_change');
 });
@@ -47,3 +48,4 @@ Route::middleware('auth')->group(function () {
 require __DIR__ . '/auth.php';
 
 Route::get('/{page:slug}', [PageController::class, 'show'])->name('page');
+Route::post('/admin/orders', [OrderController::class, 'store'])->name('admin.orders.store');
