@@ -50,6 +50,31 @@
                         </select>
                     </div>
                 </div>
+                <div class="flex items-center gap-4 mb-4 sm:mb-0">
+
+                    <select onchange="action(this.options[this.selectedIndex].value)"
+                        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+                        <option selected>Action</option>
+                        <option>Pending</option>
+                        <option>Delivered</option>
+                        <option>Canceled</option>
+                        <option>Delete</option>
+                    </select>
+
+                    <select onchange="action(this.options[this.selectedIndex].value)"
+                        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+                        <option selected>25</option>
+                        <option>50</option>
+                        <option>100</option>
+                        <option>500</option>
+                        <option>all</option>
+                    </select>
+
+                    <button type="button"
+                        class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5  dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Filter</button>
+                    <button type="button"
+                        class="py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">Export</button>
+                </div>
             </div>
         </div>
     </div>
@@ -96,8 +121,8 @@
                                             <input type="checkbox" name="checked[{{ $item->id }}]"
                                                 value="{{ $item->id }}"
                                                 class="w-4 h-4 border-gray-300 rounded checkedrow bg-gray-50 focus:ring-3 focus:ring-primary-300 dark:focus:ring-primary-600 dark:ring-offset-gray-800 dark:bg-gray-700 dark:border-gray-600">
-                                                <span class="ms-3">{{ $item->id }}</span>
-                                                <label for="" class="sr-only">
+                                            <span class="ms-3">{{ $item->id }}</span>
+                                            <label for="" class="sr-only">
                                                 checkbox
                                             </label>
                                         </div>
