@@ -871,17 +871,16 @@
                                                     class="woocommerce-order-overview woocommerce-thankyou-order-details order_details">
 
                                                     <li class="woocommerce-order-overview__order order">
-                                                        Order number: <strong>{{$order->id}}</strong>
+                                                        Order number: <strong>{{session('order_id')}}</strong>
                                                     </li>
 
                                                     <li class="woocommerce-order-overview__date date">
-                                                        Date: <strong>{{$order->created_at->format('d/m/Y')}}</strong>
+                                                        Date: <strong>{{session('order_created_at')}}</strong>
                                                     </li>
-
 
                                                     <li class="woocommerce-order-overview__total total">
                                                         Total: <strong><span
-                                                                class="woocommerce-Price-amount amount"><bdi>{{$order->data['total']}}<span
+                                                                class="woocommerce-Price-amount amount"><bdi>{{session('total')}}<span
                                                                         class="woocommerce-Price-currencySymbol">৳&nbsp;</span></bdi></span></strong>
                                                     </li>
 
@@ -912,8 +911,8 @@
                                                         </thead>
 
                                                         <tbody>
-
-                                                            @foreach ($products as $product)                
+                                                            
+                                                            @foreach (json_decode(session('products'), true) ?? [] as $product)                
                                                             <tr class="woocommerce-table__line-item order_item">
 
                                                                 <td
@@ -937,14 +936,14 @@
                                                             <tr>
                                                                 <th scope="row">Subtotal:</th>
                                                                 <td><span
-                                                                        class="woocommerce-Price-amount amount">{{$order->data['sub_total']}}<span
+                                                                        class="woocommerce-Price-amount amount">{{session('sub_total')}}<span
                                                                             class="woocommerce-Price-currencySymbol">৳&nbsp;</span></span>
                                                                 </td>
                                                             </tr>
                                                             <tr>
                                                                 <th scope="row">Shipping:</th>
                                                                 <td><span
-                                                                        class="woocommerce-Price-amount amount">{{$order->data['shipping_charge']}}<span
+                                                                        class="woocommerce-Price-amount amount">{{session('shipping_charge')}}<span
                                                                             class="woocommerce-Price-currencySymbol">৳&nbsp;</span></span>
                                                                 </td>
                                                             </tr>
@@ -955,7 +954,7 @@
                                                             <tr>
                                                                 <th scope="row">Total:</th>
                                                                 <td><span
-                                                                        class="woocommerce-Price-amount amount">{{$order->data['total']}}<span
+                                                                        class="woocommerce-Price-amount amount">{{session('total')}}<span
                                                                             class="woocommerce-Price-currencySymbol">৳&nbsp;</span></span>
                                                                 </td>
                                                             </tr>

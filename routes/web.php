@@ -22,6 +22,8 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::view('/successfull-order', 'successfullorder')->name('successfullorder');
+
 Route::group(['as' => 'admin.', 'prefix' => 'admin', 'middleware' => 'auth'], function () {
     Route::redirect('/', 'admin/welcome');
     Route::get('dashboard', [AdminController::class, 'dashboard'])->name('dashboard');

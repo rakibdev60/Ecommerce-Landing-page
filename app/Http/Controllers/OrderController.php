@@ -40,17 +40,25 @@ class OrderController extends Controller
             $sub_total +=  $product['price'] * $product['quantity'];
         }
 
+        $total = $sub_total + $request->delivery_charge;
+
         $order =  Order::create([
             'billing_details' => $request->billing_details,
             'products' => $request->products,
             'data' => [
                 'sub_total' => $sub_total,
                 'shipping_charge' => $request->delivery_charge,
-                'total' => $sub_total + $request->delivery_charge,
+                'total' => $total,
             ]
         ]);
 
-        return view('successfullorder', compact('order', 'sub_total', 'products'));
+        return redirect()->route('successfullorder')
+            ->with('order_id', $order->id)
+            ->with('order_created_at', $order->created_at->format('d/m/Y'))
+            ->with('sub_total', $sub_total)
+            ->with('total', $total)
+            ->with('products', json_encode($products));
+        // return view('successfullorder', compact('order', 'sub_total', 'products'));
     }
 
     /**
