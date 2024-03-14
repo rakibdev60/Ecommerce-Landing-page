@@ -749,14 +749,14 @@
         <div data-elementor-type="wp-post" data-elementor-id="8583" class="elementor elementor-8583"
             data-elementor-post-type="cartflows_step">
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-60e8cfec elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class="elementor-section elementor-top-section elementor-element elementor-element-60e8cfec elementor-section-boxed elementor-section-height-default"
                 data-id="60e8cfec" data-element_type="section">
                 <div class="elementor-container elementor-column-gap-no">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2d57ffeb"
                         data-id="2d57ffeb" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <section
-                                class="elementor-section elementor-inner-section elementor-element elementor-element-9eed3d4 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                class="elementor-section elementor-inner-section elementor-element elementor-element-9eed3d4 elementor-section-boxed elementor-section-height-default"
                                 data-id="9eed3d4" data-element_type="section">
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b9ee29e"
@@ -1019,7 +1019,7 @@
                 </div>
             </section>
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-75b71826 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class="elementor-section elementor-top-section elementor-element elementor-element-75b71826 elementor-section-content-middle elementor-section-boxed elementor-section-height-default"
                 data-id="75b71826" data-element_type="section"
                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-no">
@@ -1349,7 +1349,7 @@
                 </div>
             </section>
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-183340f1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class="elementor-section elementor-top-section elementor-element elementor-element-183340f1 elementor-section-boxed elementor-section-height-default"
                 data-id="183340f1" data-element_type="section">
                 <div class="elementor-container elementor-column-gap-no">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3fd348e9"
@@ -1491,7 +1491,7 @@
                 </div>
             </section>
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-488bbf8f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class="elementor-section elementor-top-section elementor-element elementor-element-488bbf8f elementor-section-boxed elementor-section-height-default"
                 data-id="488bbf8f" data-element_type="section"
                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-no">
@@ -1507,7 +1507,7 @@
                                 </div>
                             </div>
                             <section
-                                class="elementor-section elementor-inner-section elementor-element elementor-element-0609667 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                class="elementor-section elementor-inner-section elementor-element elementor-element-0609667 elementor-section-boxed elementor-section-height-default"
                                 data-id="0609667" data-element_type="section">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-630b664"
@@ -1577,7 +1577,7 @@
                 </div>
             </section>
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-555e00f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class="elementor-section elementor-top-section elementor-element elementor-element-555e00f elementor-section-content-middle elementor-section-boxed elementor-section-height-default"
                 data-id="555e00f" data-element_type="section"
                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-no">
@@ -1694,7 +1694,7 @@
 
 
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-23a8ecd3 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class="elementor-section elementor-top-section elementor-element elementor-element-23a8ecd3 elementor-section-boxed elementor-section-height-default"
                 data-id="23a8ecd3" data-element_type="section" id="order">
                 <div class="elementor-container elementor-column-gap-no">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-20a84486"
@@ -1764,7 +1764,7 @@
                                 <div class="elementor-widget-container">
                                     <div class="wcf-el-checkout-form cartflows-elementor__checkout-form">
                                         <div id="wcf-embed-checkout-form"
-                                            class="wcf-embed-checkout-form wcf-embed-checkout-form-two-column  wcf-field-default">
+                                            class="wcf-embed-checkout-form wcf-embed-checkout-form-two-column wcf-field-default">
                                             <!-- CHECKOUT SHORTCODE -->
 
                                             <div class="woocommerce">
@@ -1791,8 +1791,11 @@
                                                                 <div class="wcf-qty-options">
 
                                                                     @foreach ($product->attributes['value'][$key] as $key2 => $value2)
+                                                                
                                                                         <div class="wcf-qty-row wcf-qty-row-8590">
-
+                                                                            <label
+                                                                            class="wcf-item-product-label"
+                                                                            for="{{ $value . $value2 }}">
                                                                             <div class="wcf-item">
                                                                                 <div
                                                                                     class="wcf-item-selector wcf-item-single-sel">
@@ -1802,10 +1805,9 @@
                                                                                         name="products[{{ $product->id }}][attributes][{{ $value }}]"
                                                                                         value="{{ $value2 }}">
 
-                                                                                    <label
-                                                                                        class="wcf-item-product-label"
-                                                                                        for="{{ $value . $value2 }}"></label>
+                                                                                   
                                                                                 </div>
+                                                                             
 
                                                                                 <div class="wcf-item-image"
                                                                                     style=""><img
@@ -1824,8 +1826,9 @@
 
 
                                                                                 </div>
-
+                                                                                
                                                                             </div>
+                                                                        </label>
                                                                         </div>
                                                                     @endforeach
 
@@ -2061,7 +2064,7 @@
             </section>
 
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-82e4083 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class="elementor-section elementor-top-section elementor-element elementor-element-82e4083 elementor-section-boxed elementor-section-height-default"
                 data-id="82e4083" data-element_type="section"
                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-default">
