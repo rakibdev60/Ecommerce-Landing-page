@@ -152,9 +152,11 @@
                                                         <p>Name: {{ $product['name'] }}</p>
                                                         <p>Price: {{ $product['price'] }}</p>
                                                         <p>Quantity: {{ $product['quantity'] }}</p>
+                                                        @isset($product['attributes'])    
                                                         @foreach ($product['attributes'] as $k => $v)
                                                             {{ $k }} : {{ $v }} |
                                                         @endforeach
+                                                        @endisset
                                                     </div>
                                                 </div>
                                             </data>
