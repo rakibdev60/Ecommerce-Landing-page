@@ -2,20 +2,34 @@
 
 namespace App\Http\Controllers;
 
+use App\Exports\OrdersExport;
 use App\Models\Order;
 use App\Http\Requests\StoreOrderRequest;
 use App\Http\Requests\UpdateOrderRequest;
 use App\Models\Product;
 use Illuminate\Http\Request;
+use Maatwebsite\Excel\Facades\Excel;
 
 class OrderController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
-    public function index(Order $order)
+    public function index(Order $order, Request $request)
     {
-        $orders = $order->latest()->get();
+        $orders = $order;
+
+        if ($request->query('status') && $request->query('status') != "All") {
+            $orders =  $orders->where('status', $request->query('status'));
+        }
+
+        if ($request->query('limit') && $request->query('limit') != "All") {
+            $orders =  $orders->limit($request->query('limit'));
+        }
+
+        $orders =  $orders->latest()->get();
+
+        // dd($orders);
 
         return view('admin.order.index', compact('orders'));
     }
@@ -33,6 +47,7 @@ class OrderController extends Controller
      */
     public function store(StoreOrderRequest $request)
     {
+
         $sub_total = 0;
         $products = $request->products;
 
@@ -109,5 +124,22 @@ class OrderController extends Controller
         ]);
 
         return redirect()->route('admin.orders.index');
+    }
+
+    public function export(Order $order, Request $request) 
+    {
+        $orders = $order;
+
+        if ($request->query('status') && $request->query('status') != "All") {
+            $orders =  $orders->where('status', $request->query('status'));
+        }
+
+        if ($request->query('limit') && $request->query('limit') != "All") {
+            $orders =  $orders->limit($request->query('limit'));
+        }
+
+        $orders =  $orders->latest()->get();
+
+        return Excel::download(new OrdersExport($orders), 'orders.xlsx');
     }
 }

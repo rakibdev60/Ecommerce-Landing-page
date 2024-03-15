@@ -1782,6 +1782,8 @@
                                                     <input type="hidden" name="products[{{ $product->id }}][price]"
                                                         value="{{ $product->price }}">
 
+                                                    <input type="hidden" class="input-text" name="products[{{ $product->id }}][image]" value="{{ $product->image }}">
+
                                                     @if (array_key_exists('name', $product->attributes))
                                                         @foreach ($product->attributes['name'] as $key => $value)
                                                             <div
@@ -1894,6 +1896,8 @@
                                                                                 onchange="total()" id="quantity"
                                                                                 required value="1"
                                                                                 name="products[{{ $product->id }}][quantity]">
+
+                                                                            
 
                                                                         </span>
                                                                     </p>

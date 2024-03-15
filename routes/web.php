@@ -31,6 +31,8 @@ Route::group(['as' => 'admin.', 'prefix' => 'admin', 'middleware' => 'auth'], fu
 
     Route::resource('pages', PageController::class);
     Route::resource('products', ProductController::class);
+
+    Route::get('orders/export', [OrderController::class, 'export'])->name('orders.export');
     Route::resource('orders', OrderController::class);
 
     Route::delete('orders/', [OrderController::class, 'bulkDelete'])->name('bulk_delete');

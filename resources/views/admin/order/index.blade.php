@@ -40,39 +40,43 @@
                         All Orders
                     </h1>
                     <div class="ms-5">
+
                         <select onchange="action(this.options[this.selectedIndex].value)"
                             class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
                             <option selected>Action</option>
                             <option>Pending</option>
+                            <option>Confirmed</option>
                             <option>Delivered</option>
                             <option>Canceled</option>
                             <option>Delete</option>
                         </select>
+
                     </div>
                 </div>
                 <div class="flex items-center gap-4 mb-4 sm:mb-0">
 
-                    <select onchange="action(this.options[this.selectedIndex].value)"
+                    <select name="status"
                         class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
-                        <option selected>Action</option>
+                        <option selected>All</option>
                         <option>Pending</option>
+                        <option>Confirmed</option>
                         <option>Delivered</option>
                         <option>Canceled</option>
                         <option>Delete</option>
                     </select>
 
-                    <select onchange="action(this.options[this.selectedIndex].value)"
+                    <select name="par_page"
                         class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
-                        <option selected>25</option>
+                        <option>All</option>
+                        <option>25</option>
                         <option>50</option>
                         <option>100</option>
                         <option>500</option>
-                        <option>all</option>
                     </select>
 
-                    <button type="button"
+                    <button type="button" onclick="filter()"
                         class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5  dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Filter</button>
-                    <button type="button"
+                    <button type="button" onclick="exportxl()"
                         class="py-2.5 px-5 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">Export</button>
                 </div>
             </div>
@@ -140,12 +144,19 @@
                                         class="p-4 text-base font-medium text-gray-900 whitespace-nowrap dark:text-white">
                                         @foreach ($item->products as $product)
                                             <data value="technology">
-                                                <p>Name: {{ $product['name'] }}</p>
-                                                <p>Price: {{ $product['price'] }}</p>
-                                                <p>Quantity: {{ $product['quantity'] }}</p>
-                                                @foreach ($product['attributes'] as $k => $v)
-                                                    {{ $k }} : {{ $v }} |
-                                                @endforeach
+                                                <div style="display: flex; gap:1rem">
+                                                    @isset($product['image'])
+                                                    <img src="/storage/{{$product['image']}}"  style="height: 5rem">
+                                                    @endisset
+                                                    <div>
+                                                        <p>Name: {{ $product['name'] }}</p>
+                                                        <p>Price: {{ $product['price'] }}</p>
+                                                        <p>Quantity: {{ $product['quantity'] }}</p>
+                                                        @foreach ($product['attributes'] as $k => $v)
+                                                            {{ $k }} : {{ $v }} |
+                                                        @endforeach
+                                                    </div>
+                                                </div>
                                             </data>
                                         @endforeach
                                     </td>
@@ -290,6 +301,18 @@
                 });
             }
 
+        }
+
+        function filter() {
+            const status =  document.querySelector('select[name="status"]').value;
+            const limit =  document.querySelector('select[name="par_page"]').value;
+            location.href = location.origin + location.pathname + `?status=${status}&limit=${limit}`;
+        }
+
+        function exportxl() {
+            const status =  document.querySelector('select[name="status"]').value;
+            const limit =  document.querySelector('select[name="par_page"]').value;
+            location.href = location.origin + location.pathname + "/export" + `?status=${status}&limit=${limit}`;
         }
     </script>
 
