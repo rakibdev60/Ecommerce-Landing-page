@@ -736,6 +736,17 @@
 
     <meta name="msapplication-TileImage"
         content="https://elegentbd.com/wp-content/uploads/2023/12/cropped-326835200_675963777643124_608574674047537790_n-270x270.jpg">
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DJJKJF0D52"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DJJKJF0D52');
+</script>
+
 </head>
 
 <body

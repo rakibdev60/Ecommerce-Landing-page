@@ -37,6 +37,17 @@
     <!-- End Meta Pixel Code -->
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DJJKJF0D52"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DJJKJF0D52');
+</script>
+
 </head>
 
 <body>
