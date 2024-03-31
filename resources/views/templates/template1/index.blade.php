@@ -699,30 +699,7 @@
     <link rel="alternate" type="text/xml+oembed"
         href="https://elegentbd.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Felegentbd.com%2Fstep%2Fchunri-print-2-pis%2F&amp;format=xml">
     <!-- Meta Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '1680623819127789');
-        fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" width="1" style="display:none"
-            src="https://www.facebook.com/tr?id=1680623819127789&ev=PageView&noscript=1" /></noscript>
+    
     <!-- End Meta Pixel Code -->
     <meta name="facebook-domain-verification" content="an754f158ftw09k086anu18j6fa0t5"> <noscript>
         <style>

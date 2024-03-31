@@ -20,15 +20,15 @@ use App\Models\Order;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('auth.login');
 });
 
 Route::view('/successfull-order', 'successfullorder')->name('successfullorder');
 
 Route::group(['as' => 'admin.', 'prefix' => 'admin', 'middleware' => 'auth'], function () {
-    Route::redirect('/', 'admin/welcome');
+    Route::redirect('/', 'admin/dashboard');
     Route::get('dashboard', [AdminController::class, 'dashboard'])->name('dashboard');
-    Route::get('welcome', [AdminController::class, 'welcome'])->name('welcome');
+    //Route::get('welcome', [AdminController::class, 'welcome'])->name('welcome');
 
     Route::resource('pages', PageController::class);
     Route::resource('products', ProductController::class);

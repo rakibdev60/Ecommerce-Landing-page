@@ -1,0 +1,35 @@
+[11-Mar-2024 18:55:39 UTC] PHP Warning:  require(/home/shopping/shoppingzonebd/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:55:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shopping/shoppingzonebd/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shopping/shoppingzonebd/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:55:40 UTC] PHP Warning:  require(/home/shopping/shoppingzonebd/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:55:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shopping/shoppingzonebd/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shopping/shoppingzonebd/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:56:18 UTC] PHP Warning:  require(/home/shopping/shoppingzonebd/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:56:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shopping/shoppingzonebd/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shopping/shoppingzonebd/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:56:19 UTC] PHP Warning:  require(/home/shopping/shoppingzonebd/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:56:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shopping/shoppingzonebd/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shopping/shoppingzonebd/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:56:19 UTC] PHP Warning:  require(/home/shopping/shoppingzonebd/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:56:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shopping/shoppingzonebd/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shopping/shoppingzonebd/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:56:22 UTC] PHP Warning:  require(/home/shopping/shoppingzonebd/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:56:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shopping/shoppingzonebd/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shopping/shoppingzonebd/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:56:22 UTC] PHP Warning:  require(/home/shopping/shoppingzonebd/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shopping/shoppingzonebd/public/index.php on line 34
+[11-Mar-2024 18:56:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shopping/shoppingzonebd/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shopping/shoppingzonebd/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shopping/shoppingzonebd/public/index.php on line 34
